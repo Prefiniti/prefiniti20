@@ -1,0 +1,1 @@
+<cfoutput>#Hash("pass1234")#</cfoutput>

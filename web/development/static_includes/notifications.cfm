@@ -1,0 +1,4 @@
+<div style="height:200px; background-color:#EFEFEF; -moz-opacity:.90; text-align:left;">
+<strong>Notifications</strong><br /><br />
+Prefiniti's notifications system is both powerful and versatile.  Prefiniti supports any combination of SMS text Message, email and site mail (Prefiniti Mail) notifications for any event.  That means that when you want to know instantly when a customer places as order you can.  You can be at work, in the field and get a text message to you phone showing you who placed an order and when they did it.  You can also customize what type of notification you would like to receive for any type of event.  Knowledges is power, and knowing instantly gives you a powerful edge over your competitors and a powerful reputation with your customers.  Never use the excuse again: "I was in the field."
+</div>

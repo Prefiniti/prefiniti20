@@ -1,0 +1,4 @@
+<div style="height:200px; background-color:#EFEFEF; -moz-opacity:.90; text-align:left;">
+<strong>Media Player</strong><br /><br />
+This may not seam like an important feature for a business, but we at Prefiniti think so.  Whether your an owner of the company, a manager or a crew chief we give you the ability to upload any MP3 you would like into your personal file storage area.  Prefiniti's media player does the rest.  You can now draft in any place and still have access to your music library without the need of having it on that computer.  Now you can feel free to use a different computer in the office while yours is getting repaired, and still have all the music you like to enjoy.  Drafters and crew chiefs will enjoy this awesome feature.  And don't worry, this all works without downloading any software.  Another helpful tool Prefiniti gives you for free.
+</div>

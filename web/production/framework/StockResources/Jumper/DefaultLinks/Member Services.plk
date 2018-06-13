@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=PSessionBar();
+TYPE=SCRIPT
+DESCRIPTION=Member Services
+ICON=/graphics/appiconresources/crystal_project/32x32/actions/agt_member.png

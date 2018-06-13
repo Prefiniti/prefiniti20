@@ -1,0 +1,1 @@
+<input type="text" id="searchCriteria" /><input type="button" value="Go" onclick="netSearch(GetValue('searchCriteria'));" />

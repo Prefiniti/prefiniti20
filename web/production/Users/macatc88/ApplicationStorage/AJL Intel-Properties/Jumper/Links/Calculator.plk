@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=myCalc = new Calculator(); myCalc.Show(0);
+TYPE=SCRIPT
+DESCRIPTION=Calculator
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/calc.png

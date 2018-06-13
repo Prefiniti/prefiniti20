@@ -1,0 +1,6 @@
+[LINKDATA]
+ADDRESS=RainforestInvite();
+TYPE=SCRIPT
+DESCRIPTION=Add Users for The Rain Forest
+VIEWPERMISSIONS=WW_SITEMAINTAINER
+ICON=/graphics/user_add.png

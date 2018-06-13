@@ -1,0 +1,4 @@
+<div style="height:200px; background-color:#EFEFEF; -moz-opacity:.90; text-align:left;">
+<strong>File Management</strong><br /><br />
+All files associated with a project are viewable by you, your employees and your customers from the project view and the content manager, but files that you don't want your customers to see (like CAD files, etc...) are hidden, and only viewable by your company.  When you flag a file releasable the customer is immediately notified and can download the file right from their email.  If a client has a deed or survey that they would like to you to have they can simply upload it to their own Prefiniti profile and associate it to the project for you to use.  No faxing necessary.  And you will always know who uploaded a file and at what time.  Prefiniti provided accountability all around, between you and the customer, you and your employees and vice versa.
+</div>

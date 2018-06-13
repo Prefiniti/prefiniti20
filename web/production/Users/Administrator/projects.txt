@@ -1,0 +1,71 @@
+APPLICATION Projects DEFINES
+	CONTEXT Project DATASOURCE webwarecl TABLE projects SELECTOR id:STRING ID clsJobNumber DESCRIPTION "Projects" DEFINES
+		FIELDSET info LABEL "Information" DEFINES
+			FIELD REQUIRED OF Text:Plain FROM Form IN clsJobNumber DEFAULT NONE LABEL "Project Number"
+			FIELD REQUIRED OF UserID:Clients FROM Form IN clientID DEFAULT NONE LABEL "Client"
+			FIELD REQUIRED OF Text:Plain FROM Form IN clientJobNumber DEFAULT NONE LABEL "Client Job Number"
+			FIELD REQUIRED OF MultiSelect:ProjectTypes FROM Form IN jobtype DEFAULT NONE "Project Type"
+			FIELD OPTIONAL OF Text:HTML FROM Form IN description DEFAULT NONE LABEL "Description"
+			FIELD OPTIONAL OF Text:HTML FROM Form IN specialinstructions DEFAULT NONE LABEL "Instructions"
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN allow_publication DEFAULT 0 LABEL "Allow Publication"
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN request_photos DEFAULT 0 LABEL "Request Photos"
+			FOR CREATE,EDIT IN INDUSTRY ANY
+		END FIELDSET
+	
+		FIELDSET Status LABEL "Status" DEFINES 
+			FIELD REQUIRED OF Date FROM Form IN duedate DEFAULT NONE LABEL "Due Date"
+			FIELD OPTIONAL OF MultiSelect:ProjectStatuses FROM Form IN status DEFAULT "Pending" LABEL "Project Status"		
+		END FIELDSET FOR CREATE,EDIT IN INDUSTRY ANY
+
+		FIELDSET rfp_create LABEL "Bidding Method" DEFINES
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN rfp DEFAULT 0 LABEL "Project Includes RFP"
+			FOR CREATE IN INDUSTRY ANY
+		END FIELDSET
+		
+		FIELDSET rfp_edit LABEL "Bidding Method" DEFINES
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN rfp DEFAULT 0 LABEL "Project Includes RFP"
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN rfp_accepted DEFAULT 0 LABEL "RFP Accepted"
+			FIELD REQUIRED OF Boolean:Numeric FROM Form IN rfp_processed DEFAULT 0 LABEL "RFP Processed"
+			FOR EDIT IN INDUSTRY ANY
+		END FIELDSET
+		
+		FIELDSET location LABEL "Location" DEFINES
+			FIELD OPTIONAL OF Text:Plain FROM Form IN address DEFAULT NONE LABEL "Address"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN city DEFAULT NONE LABEL "City"
+			FIELD OPTIONAL OF MultiSelect:States FROM Form IN state DEFAULT NONE LABEL "State"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN zip DEFAULT NONE LABEL "ZIP Code"
+			FOR CREATE,EDIT IN INDUSTRY ANY
+		END FIELDSET
+		
+		FIELDSET location_ext LABEL "Extended Location" DEFINES
+			FIELD OPTIONAL OF Text:Plain FROM Form IN subdivision DEFAULT NONE LABEL "Subdivision"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN lot DEFAULT NONE LABEL "Lot"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN block DEFAULT NONE LABEL "Block"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN section DEFAULT NONE LABEL "Section"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN township DEFAULT NONE LABEL "Township"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN range DEFAULT NONE LABEL "Range"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN latitude DEFAULT NONE LABEL "Latitude"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN longitude DEFAULT NONE LABEL "Longitude"
+			FOR CREATE,EDIT IN INDUSTRY ANY
+		END FIELDSET			
+		
+		FIELDSET filing_info LABEL "Filing Information" DEFINES
+			FIELD OPTIONAL OF MultiSelect:FilingTypes FROM Form IN FilingType DEFAULT NONE LABEL "Filing Type"
+			FIELD OPTIONAL OF Date FROM Form IN FilingDate DEFAULT NONE LABEL "Filing Date"
+			FIELD OPTIONAL OF Text:Plain FROM Form IN CertifiedTo DEFAULT NONE LABEL "Certified To"
+			FOR CREATE,EDIT IN INDUSTRY LandSurvey
+		END FIELDSET
+		
+		FIELDSET billing LABEL "Billing" DEFINES
+			HOOK OPTIONAL TO TimeEntry.LineItem ON SELECTOR project_number
+			FIELD OPTIONAL OF Text:HTML FROM Form IN ScopeOfServices DEFAULT NONE LABEL "Scope of Services"
+			FIELD OPTIONAL OF Text:HTML FROM Form IN RateSchedule DEFAULT NONE LABEL "Rate Schedule"
+			FIELD OPTIONAL OF Text:HTML FROM Form IN Timeline DEFAULT NONE LABEL "Timeline"
+			FIELD OPTIONAL OF Text:HTML FROM Form IN Contract DEFAULT NONE LABEL "Contract"
+			FOR CREATE,EDIT IN INDUSTRY ANY
+		END FIELDSET
+	END CONTEXT
+END APPLICATION	
+			
+			
+

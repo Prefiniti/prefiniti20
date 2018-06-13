@@ -1,0 +1,3 @@
+<h3 class="stdHeader">Real time personnel locations</h3>
+
+<p>Prefiniti's innovative approach to mapping allows GPS-enabled cellular phones and GPS handheld devices to link directly to the Prefiniti network. A phone can be used to track an employee's location as he or she travels to various jobs around town or to a job out of town. One of the benefits of real time location is that an employee's assigned task can have an automated start of the task occur the moment the employee arrives onsite. This type of tracking has historically come with a high price tag. Now for the first time, these capabilities are within the budgets of small businesses.  Prefiniti is dedicated to connecting your small business with the most innovative technologies available.</p>

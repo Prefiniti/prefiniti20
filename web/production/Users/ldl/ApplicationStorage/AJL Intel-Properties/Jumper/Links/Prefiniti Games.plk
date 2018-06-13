@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=LoadControlPanel('Games', 'Games');
+TYPE=SCRIPT
+DESCRIPTION=Prefiniti Games
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/package_games.png

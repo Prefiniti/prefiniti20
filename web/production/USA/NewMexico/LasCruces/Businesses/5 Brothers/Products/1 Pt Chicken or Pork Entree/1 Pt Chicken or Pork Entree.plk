@@ -1,0 +1,5 @@
+[LINKDATA]
+TYPE=SCRIPT
+ADDRESS=PViewProduct(28, '/USA/NewMexico/LasCruces/Businesses/5 Brothers/Products/1 Pt Chicken or Pork Entree/Product Images');
+ICON=/graphics/AppIconResources/crystal_project/32x32/actions/shopping_cart.png
+VIEWPERMISSIONS=

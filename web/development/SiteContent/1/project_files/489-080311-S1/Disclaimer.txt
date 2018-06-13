@@ -1,0 +1,23 @@
+Dona Ana County Flood Commission
+Aerial Photography Data Set
+Disclaimer
+
+New Mexico State Plane, Central Zone, U.S. Feet with horizontal datum NAD 83 and Vertical datum NAVD 88.
+All data is in grid. *No warranty is made by Dona Ana County as to the accuracy, reliability or completeness
+of this data for individual or aggregate use with other data.  Data is for the sole use of the purchaser and
+may not be resold.
+
+November 2004 (Updated 2005)
+
+Contact Information
+
+Tambri L. Hunteman
+GIS Mapping Specialist
+Doña Ana County Flood Commission
+845 N. Motel Blvd. Room 1-250
+Las Cruces, NM 88007
+505-525-5552 Direct
+505-525-5567 Fax
+tambrih@donaanacounty.org
+www.donaanacounty.org/flood 
+

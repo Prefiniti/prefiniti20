@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+	
+	<xsl:for-each select="result">
+	<h1><xsl:value-of select="subject"/></h1>
+	<table width="100%">
+		<tr>
+			<td><strong>From:</strong></td>
+			<td><xsl:value-of select="from"/></td>
+		</tr>
+		<tr>
+			<td><strong>Date Sent:</strong></td>
+			<td><xsl:value-of select="datesent"/></td>
+		</tr>
+		<tr>
+			<td colspan="2"><xsl:value-of select="messagebody"/></td>
+		</tr>
+	</table>									
+    </xsl:for-each>
+</xsl:template>
+
+</xsl:stylesheet>

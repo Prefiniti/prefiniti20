@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2008-09-27" time="19:08:19" readOnly="false" language="English">
+<Project name="571-08 EKMAR.JOB"/>
+<Units>
+<Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicFeet" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal degrees" directionUnit="decimal degrees"/>
+</Units>
+<Application name="Survey Pro" manufacturer="Tripod Data Systems" version="4.0" manufacturerURL="www.tdsway.com"/>
+<CgPoints
+ name="Points"
+>
+<CgPoint
+ name="1"
+ desc="BASE"
+>
+5000.010000 5000.010000 100.000200
+</CgPoint>
+<CgPoint
+ name="2"
+ desc="1/2&quot; RBF 1755"
+>
+3812.687217 4345.462655 139.981140
+</CgPoint>
+<CgPoint
+ name="3"
+ desc="5/8&quot; RBF 13984"
+>
+3811.631504 4245.311382 142.377809
+</CgPoint>
+<CgPoint
+ name="4"
+ desc="1/2&quot; RBF 1755"
+>
+3811.838962 4295.423552 140.447627
+</CgPoint>
+<CgPoint
+ name="5"
+ desc="1/2&quot; RBF 1755"
+>
+3722.796177 4347.068027 141.338655
+</CgPoint>
+<CgPoint
+ name="6"
+ desc="1/2&quot; RBF 1755"
+>
+3721.832570 4297.024454 142.555307
+</CgPoint>
+<CgPoint
+ name="100"
+ desc="LINK FNC"
+>
+3812.809862 4346.101373 138.828003
+</CgPoint>
+<CgPoint
+ name="101"
+ desc="4.57H"
+>
+3798.440805 4329.947338 140.832978
+</CgPoint>
+<CgPoint
+ name="102"
+ desc="2.99H"
+>
+3793.821776 4332.995655 144.335927
+</CgPoint>
+<CgPoint
+ name="103"
+ desc="CONC"
+>
+3797.316375 4338.397162 140.610358
+</CgPoint>
+<CgPoint
+ name="104"
+ desc="CONC"
+>
+3794.847594 4340.718596 140.656447
+</CgPoint>
+<CgPoint
+ name="105"
+ desc="CONC"
+>
+3751.162213 4344.683560 141.359546
+</CgPoint>
+<CgPoint
+ name="106"
+ desc="LINK FNC GT"
+>
+3812.680125 4329.974668 139.431530
+</CgPoint>
+<CgPoint
+ name="107"
+ desc="LINK FNC GT"
+>
+3812.551692 4323.744610 139.540989
+</CgPoint>
+<CgPoint
+ name="108"
+ desc="LINK FNC GT"
+>
+3812.646744 4315.950134 139.729847
+</CgPoint>
+<CgPoint
+ name="109"
+ desc="LINK FNC GT"
+>
+3812.535057 4295.774557 140.129833
+</CgPoint>
+<CgPoint
+ name="110"
+ desc="LINK FNC POL"
+>
+3751.654609 4296.579571 141.592039
+</CgPoint>
+<CgPoint
+ name="111"
+ desc="UP"
+>
+3742.932153 4298.308366 145.056054
+</CgPoint>
+<CgPoint
+ name="112"
+ desc="OHE UP"
+>
+3859.309583 4323.744627 138.308069
+</CgPoint>
+<CgPoint
+ name="113"
+ desc="OHE UP"
+>
+3811.276318 4348.551165 139.370848
+</CgPoint>
+<CgPoint
+ name="114"
+ desc="LINK FNC POL"
+>
+3753.232845 4346.473246 140.018045
+</CgPoint>
+<CgPoint
+ name="115"
+ desc="LINK FNC"
+>
+3733.025895 4346.704888 140.445336
+</CgPoint>
+<CgPoint
+ name="116"
+ desc="LINK FNC POL"
+>
+3732.222548 4336.394113 140.571184
+</CgPoint>
+<CgPoint
+ name="117"
+ desc="OHE UP"
+>
+3729.078275 4348.387855 140.934847
+</CgPoint>
+<CgPoint
+ name="118"
+ desc="WIRE FNC POL"
+>
+3724.931718 4361.266984 139.636595
+</CgPoint>
+<CgPoint
+ name="119"
+ desc="CONC"
+>
+3812.258146 4295.915555 140.556663
+</CgPoint>
+<CgPoint
+ name="120"
+ desc="CONC"
+>
+3793.816496 4298.996390 141.540465
+</CgPoint>
+<CgPoint
+ name="121"
+ desc="CONC"
+>
+3797.236326 4314.911888 141.211574
+</CgPoint>
+<CgPoint
+ name="122"
+ desc="5.71H"
+>
+3740.836250 4311.011713 141.720973
+</CgPoint>
+<CgPoint
+ name="123"
+ desc="WIRE FNC"
+>
+3722.834124 4297.304357 141.645867
+</CgPoint>
+<CgPoint
+ name="124"
+ desc="WIRE FNC"
+>
+3658.694780 4298.849706 141.959670
+</CgPoint>
+<CgPoint
+ name="125"
+ desc="WIRE FNC"
+>
+3722.885878 4286.849177 142.978325
+</CgPoint>
+<CgPoint
+ name="126"
+ desc="LINK FNC POL"
+>
+3724.166305 4286.745610 141.893450
+</CgPoint>
+</CgPoints>
+<Alignments
+ name="Points"
+>
+<Alignment
+ name="Alignment9"
+ desc="LINK FNC*"
+ staStart="0.000000"
+ length="111.215321"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="100"
+>
+3812.809862 4346.101373 138.828003
+</Start>
+<End
+ pntRef="106"
+>
+3812.680125 4329.974668 139.431530
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="106"
+>
+3812.680125 4329.974668 139.431530
+</Start>
+<End
+ pntRef="107"
+>
+3812.551692 4323.744610 139.540989
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="107"
+>
+3812.551692 4323.744610 139.540989
+</Start>
+<End
+ pntRef="108"
+>
+3812.646744 4315.950134 139.729847
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="108"
+>
+3812.646744 4315.950134 139.729847
+</Start>
+<End
+ pntRef="109"
+>
+3812.535057 4295.774557 140.129833
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="109"
+>
+3812.535057 4295.774557 140.129833
+</Start>
+<End
+ pntRef="110"
+>
+3751.654609 4296.579571 141.592039
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment10"
+ desc="OHE*"
+ staStart="0.000000"
+ length="136.258902"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="112"
+>
+3859.309583 4323.744627 138.308069
+</Start>
+<End
+ pntRef="113"
+>
+3811.276318 4348.551165 139.370848
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="113"
+>
+3811.276318 4348.551165 139.370848
+</Start>
+<End
+ pntRef="117"
+>
+3729.078275 4348.387855 140.934847
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment20"
+ desc="LINK FNC*"
+ staStart="0.000000"
+ length="30.550301"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="114"
+>
+3753.232845 4346.473246 140.018045
+</Start>
+<End
+ pntRef="115"
+>
+3733.025895 4346.704888 140.445336
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="115"
+>
+3733.025895 4346.704888 140.445336
+</Start>
+<End
+ pntRef="116"
+>
+3732.222548 4336.394113 140.571184
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment23"
+ desc="WIRE FNC*"
+ staStart="0.000000"
+ length="128.154970"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="118"
+>
+3724.931718 4361.266984 139.636595
+</Start>
+<End
+ pntRef="123"
+>
+3722.834124 4297.304357 141.645867
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="123"
+>
+3722.834124 4297.304357 141.645867
+</Start>
+<End
+ pntRef="124"
+>
+3658.694780 4298.849706 141.959670
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+</Alignments>
+</LandXML>

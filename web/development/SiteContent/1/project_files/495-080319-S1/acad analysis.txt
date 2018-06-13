@@ -1,0 +1,67 @@
+Performance Tuner Results Log
+Version: 17.2.0.1
+Date of Last Tune: 5/16/2008
+
+Machine Configuration
+---------------------
+Processor Speed  : 2.2 GHz
+RAM              : 1215 MB
+
+3D Device
+---------
+Name             : NVIDIA GeForce 6150 LE       
+Manufacturer     : NVIDIA
+Chip set         : GeForce 6150 LE       
+Memory           : 256.0 MB
+Driver           : 6.14.0010.8208
+
+Your machine contains a 3D Device that is not certified.
+
+As more graphics cards and 3D display drivers are tested, they are added to a list on the Autodesk website.
+
+You can check for updates and download the latest certification list at any time. Run the 3DCONFIG command and click the Check for Updates button.
+
+Current application driver:    Software
+
+Current Effect Status:
+----------------------
+Enhanced 3D Performance:  Not recommended and off
+Smooth line display:      Not available
+Gooch shader:             Software emulation in use
+Per-pixel lighting:       Not available
+Full-shadow display:      Not available
+Texture compression:      Not available
+
+
+Available application drivers and effect support:
+-------------------------------------------------
+Software driver
+Effect support:
+
+	Enhanced 3D Performance:  Not applicable
+	Smooth line display:      Not applicable
+	Gooch shader:             Software emulation only
+	Per-pixel lighting:       Not applicable
+	Full-shadow display:      Not applicable
+	Texture compression:      Not applicable
+
+OpenGL driver:    Not Certified
+Effect support:
+
+	Enhanced 3D Performance:  Available
+	Smooth line display:      Available
+	Gooch shader:             Available
+	Per-pixel lighting:       Not applicable
+	Full-shadow display:      Available
+	Texture compression:      Available
+
+Direct3D driver:  Not Certified
+Effect support:
+
+	Enhanced 3D Performance:  Available
+	Smooth line display:      Not applicable
+	Gooch shader:             Available
+	Per-pixel lighting:       Available
+	Full-shadow display:      Available
+	Texture compression:      Available
+

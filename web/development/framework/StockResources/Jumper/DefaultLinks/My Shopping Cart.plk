@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=OpenMyCart();
+TYPE=SCRIPT
+DESCRIPTION=My Shopping Cart
+ICON=/graphics/appiconresources/crystal_project/32x32/actions/shopping_cart.png

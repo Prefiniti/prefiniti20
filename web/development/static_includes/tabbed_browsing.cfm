@@ -1,0 +1,4 @@
+<div style="height:200px; background-color:#EFEFEF; -moz-opacity:.90; text-align:left;">
+<strong>Tabbed Browsing</strong><br /><br />
+Prefiniti's tabbed browsing is far different and unique from the tabs created in Firefox or Internet Explorer.  Prefiniti's tabs are right in the site.  In fact your entire browsing experience is integrated.  It is not browser dependent.  Prefiniti functions much like your desk.  You can have multiple views open and just switch between tabs like a filing cabinet.  If you close a tab, and want it back, don't worry.  It's stored in our history.  Drop the history list down and get right back to what you were doing.  This is very useful when a manager is reviewing timesheets.  He or she can have multiple timesheets open and cross reference the data to check for any discrepancies in records between employees.
+</div>

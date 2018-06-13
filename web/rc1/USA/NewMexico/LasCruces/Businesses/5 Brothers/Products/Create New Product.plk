@@ -1,0 +1,5 @@
+[LINKDATA]
+TYPE=SCRIPT
+ADDRESS=AddProduct(43);
+ICON=/graphics/AppIconResources/crystal_project/32x32/actions/db_add.png
+VIEWPERMISSIONS=WW_MANAGECATALOG

@@ -1,0 +1,5 @@
+Fried Wontons (6)
+*Green Chili Wontons (4)
+Crab Rangoon (4)
+Fried Dumplings (4)
+Egg Rolls (2)

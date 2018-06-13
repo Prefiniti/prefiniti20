@@ -1,0 +1,1 @@
+<p style="color:red; font-weight:bold;">Please select a game from those on the left.</p>

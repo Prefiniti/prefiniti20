@@ -1,0 +1,1 @@
+<cfmodule template="/socialnet/components/view_online_friends.cfm" user_id="#url.calledByUser#">

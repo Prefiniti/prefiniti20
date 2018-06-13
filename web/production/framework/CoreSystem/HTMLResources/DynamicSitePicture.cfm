@@ -1,0 +1,1 @@
+<cfmodule template="/contentmanager/components/SitePicture.cfm" SiteFileID="#URL.SourceOIID#" width="#URL.width#" height="#URL.height#">

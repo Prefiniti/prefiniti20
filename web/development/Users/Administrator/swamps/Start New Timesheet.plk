@@ -1,0 +1,5 @@
+[LINKDATA]
+TYPE=SCRIPT
+ADDRESS=AjaxLoadPageToDiv('tcTarget', '/tc/timesheet.cfm?action=add&userid=' + AuthenticationRecord.UserID)
+ICON=/graphics/AppIconResources/crystal_project/32x32/apps/clock.png
+VIEWPERMISSIONS=WW_MANAGECATALOG

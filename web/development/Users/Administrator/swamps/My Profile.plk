@@ -1,0 +1,5 @@
+[LINKDATA]
+TYPE=SCRIPT
+ADDRESS=viewProfile(20);
+ICON=/Users/Administrator/jollis3.jpg
+VIEWPERMISSIONS=WW_MANAGECATALOG

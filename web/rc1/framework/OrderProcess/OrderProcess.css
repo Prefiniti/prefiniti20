@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, table, td {
+	background-color:black;
+	color:gold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.OPBottomBar {
+	width:100%;
+	position:fixed;
+	bottom:0px;
+	height:64px;
+	border-top:1px solid gold;
+}
+
+#OPTarget {
+	width:100%;
+	border:1px solid gold;
+}
+
+h1 {
+	font-size:48px;
+	line-height:normal;
+	padding:0px;
+}
+
+h3 {
+	font-size:8px;
+	font-weight:bold;
+	
+	padding:0px;
+	line-height:normal;
+}
+
+.StageBlock {
+	border:1px solid gold;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	float:left;
+	font-size:32px;
+	margin-left:10px;
+}
+
+.OrdHeader {
+	font-size:38px;
+	padding-left:10px;
+}
+
+.OrderBlock {
+	margin-top:10px;
+	width:350px;
+	float:left;
+	height:500px;
+	border-right:1px solid gold;
+}
+
+.LargeButton {
+	height:64px;
+}
+
+th {
+	text-align:left;
+}

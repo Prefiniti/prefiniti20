@@ -1,0 +1,379 @@
+/* SoundManager 2 demo page layout - not needed to use API */
+
+body {
+ background:#222 url(image/body-bg-squidfingers.com.gif);
+ margin:0px;
+ font:normal 75% verdana,arial,tahoma,"times new roman","sans serif";
+ color:#eee;
+}
+
+dd {
+ font-family:verdana,arial,tahoma,"times new roman","sans serif";
+}
+
+pre, code, dt {
+ font-family:"lucida console",monaco,courier,terminal,system;
+}
+
+.clear {
+ float:none;
+ clear:both;
+ font-size:1px;
+ line-height:1px;
+ height:1px;
+}
+
+.fl {
+ float:left;
+ display:inline;
+}
+
+h1, h2, h3, h4 {
+ font-size:2.5em;
+ letter-spacing:-1px;
+ margin:0px;
+}
+
+h1 {
+ color:#fff;
+ margin-top:-0.15em;
+}
+
+h2 {
+ font-size:1.5em;
+ color:#66ccff;
+}
+
+h3 {
+ font-size:1.4em;
+ font-weight:normal;
+ color:#fff;
+ border-left:0.35em solid #6699cc;
+ margin-left:-0.75em;
+ margin-top:1.5em;
+ margin-right:-0.5em;
+ border-bottom:1px solid #1c1c1c;
+ border-right:1px solid #333;
+ background:transparent url(image/bg-main.jpg) repeat-x 0px -1px;
+ padding:0.2em 0px 0.3em 0.2em;
+ text-indent:0.1em;
+}
+
+h4 {
+ letter-spacing:0px;
+ font-size:1em;
+ font-weight:bold;
+ margin:1.75em 0px 0px 0px;
+ color:#eee;
+ border-left:0.35em solid #6699cc;
+ text-indent:0.5em;
+}
+
+h4.compact {
+ margin-top:0.5em !important;
+}
+
+ul li h4 {
+ margin-left:0px;
+ text-indent:0px;
+ border-left:none;
+}
+
+a {
+ color:#99ccff;
+}
+
+a:hover {
+ color:#ff99cc;
+}
+
+a:visited {
+}
+
+p {
+ margin:0px;
+ padding:1em 0px 0px 0px;
+ line-height:1.75em;
+}
+
+.compact {
+ margin-top:0px !important;
+ padding-top:0px !important;
+}
+
+ul {
+ margin:1em 0px 0px 0px;
+ padding:0px;
+ margin-left:0px;
+ padding-left:1em;
+ _padding-left:0px;
+ _margin-left:1.5em;
+}
+
+ul li {
+ margin-bottom:0.75em;
+}
+
+ul.compact li {
+ margin-top:0.75em;
+}
+
+ul.compact li h4 {
+ margin-top:0px;
+}
+
+ul.compact li:first-child {
+ margin-top:2em;
+}
+
+ul.tight,
+ul.tight li {
+ margin:0px !important;
+ padding:0px !important;
+}
+
+ul.tight {
+ margin-bottom:1em !important;
+}
+
+ul.tight li {
+ line-height:1.5em;
+}
+
+ul.nested {
+ margin-left:1em !important;
+}
+
+#site {
+ position:relative;
+ background:#000;
+ margin:0px auto;
+ *width:85%;
+ min-width:30em;
+ max-width:75em;
+ border:1px solid #111;
+}
+
+#header {
+ background:#0099ee url(image/bg-header.jpg) repeat-x 0px bottom;
+ padding:1em;
+ zoom:1;
+}
+
+#header .speaker {
+ width:68px;
+ height:68px;
+ background:transparent url(image/speaker.png) no-repeat 0px 0px;
+ _background:none;
+ _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale src='demo/image/speaker.png');
+ margin-right:1em;
+}
+
+#main {
+ background:transparent url(image/bg-main.jpg) repeat-x 0px 0px;
+ padding:1.5em;
+ zoom:1;
+}
+
+code, pre {
+ line-height:1.5em;
+}
+
+code {
+ display:block;
+ margin-bottom:0px;
+}
+
+code.in,
+.in code {
+ display:inline;
+}
+
+pre {
+ margin:0.5em 0px 0px 0px;
+ width:auto;
+ *width:100%;
+ overflow:auto;
+}
+
+code,
+pre,
+dt,
+dl dt span {
+ color:#99ccff;
+}
+
+dl {
+ margin:0.5em 0px 1em 0px;
+ font-family:"lucida console",system,terminal;
+}
+
+dt,
+dl dd {
+ line-height:1.5em;
+}
+
+dl dd code {
+ display:inline;
+ color:#99cc99;
+}
+
+.code code {
+ color:#99cc99;
+}
+
+dl dt {
+ margin:2em 0px 1em 0px;
+ padding-top:0.5em;
+ color:#99cc99;
+ background:#222;
+ text-indent:0.5em;
+ margin-left:-0.5em;
+}
+
+dl dt:first-child {
+ margin-top:1.5em;
+}
+
+dl dt + dd {
+ font-style:italic;
+}
+
+dl .boolean,
+dl .string,
+dl .integer,
+dl .function {
+ text-indent:20px;
+ background-position:0px 0.7em;
+ background-repeat:no-repeat;
+}
+
+pre {
+ color:#99cc99;
+}
+
+pre span,
+code span {
+ color:#99ccff;
+}
+
+pre span span {
+ color:#999;
+}
+
+dl dd {
+ display:block;
+ margin-left:1em;
+ margin:0.2em 1em 0.4em 0px;
+}
+
+dl .boolean {
+ background-image:url(image/param-boolean.gif);
+}
+
+dl .string {
+ background-image:url(image/param-string.gif);
+}
+
+dl .integer {
+ background-image:url(image/param-integer.gif);
+}
+
+dl .function {
+ background-image:url(image/param-function.gif);
+}
+
+.alternate {
+ padding:0.5em;
+ border:1px solid #333;
+ margin-top:1em;
+ font-size:x-small;
+}
+
+#sm2-support {
+ display:none;
+}
+
+#demo-list.debug-only .no-debug {
+ /* if SM2 fails to load/init, only show demos with debug output. */
+ display:none;
+}
+
+#whatis-web-20-speak {
+ /* Bring on the bullshit. ;) */
+ display:none;
+ background:#005daa url(image/bg-header.jpg) repeat-x 0px 0px; /* let's get us a gradient background, blue .. */
+ padding:0.25em 1em 1em 1em;
+ margin-top:1em;
+ border:1px solid #99ccff;
+ font-size:1.4em; /* up the font size a bit, of course! */
+ font-family:georgia,helvetica,verdana,tahoma,arial;
+}
+
+#whatis-web-20-speak strong {
+ color:#fff;
+ font-size:1.4em;
+ letter-spacing:-1px; /* Wouldn't be web 2 without this.. */
+ font-family:verdana,tahoma,arial,"sans serif";
+}
+
+#whatis-web-20-speak strong span,
+#whatis-web-20-speak sup {
+ color:#ff88cc;
+}
+
+#whatis-web-20-speak .disclaimer {
+ display:none;
+}
+
+.error {
+ background:#333;
+ padding:0.5em;
+ margin:0.5em;
+ border:1px solid #993333;
+}
+
+#soundmanager-debug {
+ font-family:"lucida console",monaco,courier,terminal,system;
+ font-size:x-small;
+ line-height:1.5em;
+ margin-top:1em;
+}
+
+.theme {
+ position:absolute;
+ right:3px;
+ top:2px;
+ width:0.75em;
+ height:0.75em;
+ font-family:"georgia","helvetica",verdana,arial,tahoma,"sans serif";
+ text-decoration:none;
+ text-align:center;
+ font-size:2em;
+ line-height:1.15em;
+ font-weight:bold;
+ background:transparent;
+ border:1px solid #99ccff;
+ color:#fff;
+ overflow:hidden;
+}
+
+.theme:hover {
+ border-color:#333;
+ background:#fff;
+ color:#333;
+ filter:alpha(opacity=90);
+ opacity:0.9;
+}
+
+.theme:focus {
+ outline:none;
+}
+
+#version {
+ margin:0.3em 0px 0px 0px;
+ padding:0px;
+ font-size:x-small;
+ color:#eee;
+ font-family:arial,verdana,tahoma,"sans serif";
+}

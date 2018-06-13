@@ -1,0 +1,172 @@
+@charset "utf-8";
+
+/*************************
+    WINDOW DECORATIONS
+	
+	
+	TLC:		Top Left Corner
+	TRC:		Top Right Corner
+	BLC:		Bottom Left Corner
+	BRC:		Bottom Right Corner
+	BRC_SIZE:	Sizeable Bottom Right Corner
+	TITLEBAR:	Title Bar
+	LEFTEDGE:	Left Window Border
+	RIGHTEDGE: 	Right Window Border
+	BOTTOMEDGE: Bottom Edge
+	MINIMIZE:	Minimize Button
+	MAXIMIZE:	Maximize Button
+	CLOSE:		Close Button
+	REFRESH:	Refresh Button
+	RESTORE:	Restore Button
+	
+**************************/
+
+.__PREFINITI_TLC {
+	background-color:transparent; 
+	background-image:url(/Framework/StockResources/Themes/GoGreen/tlc.png); 
+	background-repeat:no-repeat; 
+	width:5px;
+}
+
+.__PREFINITI_TRC {
+	background-color:transparent; 
+	background-image:url(/Framework/StockResources/Themes/GoGreen/trc.png); 
+	background-repeat:no-repeat; 
+	width:5px;
+}
+
+.__PREFINITI_BLC {
+	width:5px; 
+	background-color:transparent;
+	background-image:url(/Framework/StockResources/Themes/GoGreen/blc.png);
+	background-repeat:no-repeat;
+}
+
+.__PREFINITI_BRC {
+	width:5px; 
+	background-color:transparent;
+	background-image:url(/Framework/StockResources/Themes/GoGreen/brc.png);
+	background-repeat:no-repeat;
+}
+
+.__PREFINITI_BRC_RESIZE {
+	width:5px; 
+	background-color:transparent;
+	cursor:se-resize;
+	background-image:url(/Framework/StockResources/Themes/GoGreen/brc_rs.png);
+	background-repeat:no-repeat;
+}
+
+.__PREFINITI_ICON {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/titlebar.png); 
+	background-repeat:repeat-x; 
+	width:16px;
+}
+
+.__PREFINITI_TITLEBAR {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/titlebar.png); 
+	background-repeat:repeat-x;
+	background-color:transparent;
+}
+
+.__PREFINITI_TITLETEXTWRAPPER {
+	width:100%;
+	height:30px;
+}
+
+.__PREFINITI_TITLETEXT {
+	color:white;
+	font-size:12px;
+	
+	background-color:transparent;
+}
+
+.__PREFINITI_CONTROLS {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/titlebar.png); 
+	background-repeat:repeat-x; 
+	width:auto; 
+	min-width:16px;
+}
+
+.__PREFINITI_LEFTEDGE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/leftedge.png); 
+	background-repeat:repeat-y; 
+	width:5px;
+}
+
+.__PREFINITI_LEFTEDGE_RESIZE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/leftedge_rs.png); 
+	background-repeat:repeat-y; 
+	width:5px;
+	cursor:w-resize;
+}
+
+.__PREFINITI_RIGHTEDGE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/rightedge.png); 
+	background-repeat:repeat-y; 
+	width:5px;
+}
+
+.__PREFINITI_RIGHTEDGE_RESIZE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/rightedge_rs.png); 
+	background-repeat:repeat-y; 
+	width:5px;
+	cursor:e-resize;
+}
+
+.__PREFINITI_BOTTOMEDGE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/bottomedge.png); 
+	background-repeat:repeat-x;
+	width:5px;
+}
+
+.__PREFINITI_BOTTOMEDGE_RESIZE {
+	background-image:url(/Framework/StockResources/Themes/GoGreen/bottomedge_rs.png); 
+	background-repeat:repeat-x;
+	width:5px;
+	cursor:s-resize;
+}
+
+.__PREFINITI_MENUSTRIP_ACTIVE {
+	background-color:#999999;
+	color:white;
+}
+
+
+.__PREFINITI_MENUSTRIP_INACTIVE {
+	background-color:black;
+	color:white;
+}
+
+.__PREFINITI_MENUSTRIP_LINK {
+	color:white;
+	background-color:transparent;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:10px;
+	padding:4px;
+}
+	
+.__PREFINITI_MINIMIZE {	
+
+}
+
+.__PREFINITI_MAXIMIZE {
+
+}
+
+.__PREFINITI_RESTORE {
+
+}
+
+.__PREFINITI_REFRESH {
+
+}
+
+.__PREFINITI_CLOSE {
+
+}
+
+.__PREFINITI_WINDOW {
+
+}

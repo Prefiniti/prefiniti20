@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=BrowseFriends();
+TYPE=SCRIPT
+DESCRIPTION=Browse Friends
+ICON=/graphics/appiconresources/crystal_project/32x32/actions/groupevent.png

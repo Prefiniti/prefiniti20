@@ -1,0 +1,16 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item column="0" line="0" url="framework/CoreSystem/WindowManager.js" />
+      <item column="0" line="0" url="framework/CoreSystem/SystemInitialization.js" />
+      <item column="0" line="0" url="framework/CoreSystem/ServerResourceRequester.js" />
+      <item column="31" line="22" url="framework/CoreSystem/ObjectManager.js" />
+      <item column="0" line="0" url="framework/CoreSystem/LegacySupport.js" />
+      <item column="0" line="0" url="framework/CoreSystem/RealTimeEvents.js" />
+      <item column="0" line="0" url="framework/CoreSystem/Security.js" />
+      <item column="0" line="0" url="framework/ServerInterface/SIRenderObject.cfm" />
+      <item column="11" line="22" url="framework/controls/dialog_html/PCreateFolder.cfm" />
+    </itemcursorpositions>
+  </session>
+</webprojectsession>

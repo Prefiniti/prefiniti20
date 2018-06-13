@@ -1,0 +1,1252 @@
+<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2008-03-27" time="09:40:38" readOnly="false" language="English">
+<Project name="498-08 1244 MARIE ST 03-27-2008.JOB"/>
+<Units>
+<Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicFeet" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal degrees" directionUnit="decimal degrees"/>
+</Units>
+<Application name="Survey Pro" manufacturer="Tripod Data Systems" version="4.0" manufacturerURL="www.tdsway.com"/>
+<CgPoints
+ name="Points"
+>
+<CgPoint
+ name="1"
+ desc="5/8&quot; IRF #8473"
+>
+9995.373145 9944.556640 4414.408111
+</CgPoint>
+<CgPoint
+ name="2"
+ desc="5/8&quot; IRF #8473"
+>
+9996.000404 10056.048277 4413.977026
+</CgPoint>
+<CgPoint
+ name="3"
+ desc="5/8&quot; IRF"
+>
+9905.793064 10056.587422 4412.359432
+</CgPoint>
+<CgPoint
+ name="4"
+ desc="5/8&quot; IRF #8473"
+>
+9905.360903 9944.622449 4413.838965
+</CgPoint>
+<CgPoint
+ name="8"
+ desc="5/8&quot; IRF"
+>
+9725.390330 9944.672981 4409.542926
+</CgPoint>
+<CgPoint
+ name="11"
+ desc="1/2&quot; IRF"
+>
+9905.936574 10056.486088 4411.821781
+</CgPoint>
+<CgPoint
+ name="12"
+ desc="5/8&quot; IRF #8473"
+>
+9815.735226 10056.888701 4409.422277
+</CgPoint>
+<CgPoint
+ name="101"
+ desc="BLK WALL*"
+>
+9995.221252 9944.722746 4415.564000
+</CgPoint>
+<CgPoint
+ name="102"
+ desc="BLK WALL*"
+>
+9994.734370 9945.178892 4415.623360
+</CgPoint>
+<CgPoint
+ name="103"
+ desc="BLK WALL*"
+>
+9970.302537 9944.706368 4414.131357
+</CgPoint>
+<CgPoint
+ name="104"
+ desc="BLK WALL*"
+>
+9970.299743 9945.089859 4414.167569
+</CgPoint>
+<CgPoint
+ name="105"
+ desc="BLK WALL*"
+>
+9947.150980 9944.758108 4414.032962
+</CgPoint>
+<CgPoint
+ name="106"
+ desc="BLK WALL*"
+>
+9947.136435 9945.230104 4414.045783
+</CgPoint>
+<CgPoint
+ name="107"
+ desc="BLK WALL*"
+>
+9905.909316 9944.562500 4415.489600
+</CgPoint>
+<CgPoint
+ name="108"
+ desc="BLK WALL*"
+>
+9906.376722 9944.975228 4415.530555
+</CgPoint>
+<CgPoint
+ name="109"
+ desc="BLK WALL*"
+>
+9995.695673 10005.549318 4414.301734
+</CgPoint>
+<CgPoint
+ name="110"
+ desc="BLK WALL*"
+>
+9995.283086 10005.547103 4414.291397
+</CgPoint>
+<CgPoint
+ name="111"
+ desc="BLK WALL*"
+>
+9995.685865 10017.286798 4414.301144
+</CgPoint>
+<CgPoint
+ name="112"
+ desc="BLK WALL*"
+>
+9995.300021 10017.293988 4414.270549
+</CgPoint>
+<CgPoint
+ name="113"
+ desc="BLK WALL*"
+>
+9995.327208 10032.542598 4412.313453
+</CgPoint>
+<CgPoint
+ name="114"
+ desc="BLK WALL*"
+>
+9995.766937 10032.065162 4412.326898
+</CgPoint>
+<CgPoint
+ name="115"
+ desc="BLK WALL*"
+>
+9995.803891 10055.681371 4412.340082
+</CgPoint>
+<CgPoint
+ name="116"
+ desc="BLK WALL*"
+>
+9995.362363 10055.257306 4412.334287
+</CgPoint>
+<CgPoint
+ name="117"
+ desc="BLK WALL*"
+>
+9906.454548 10056.054007 4411.027090
+</CgPoint>
+<CgPoint
+ name="118"
+ desc="BLK WALL*"
+>
+9906.891721 10055.634876 4410.878527
+</CgPoint>
+<CgPoint
+ name="119"
+ desc="OHE*PP"
+>
+9907.367425 10057.920849 4411.467830
+</CgPoint>
+<CgPoint
+ name="120"
+ desc="OHE*PP"
+>
+9816.947504 10058.048381 4409.204887
+</CgPoint>
+<CgPoint
+ name="121"
+ desc="BLK WALL*"
+>
+9917.909858 10055.776287 4410.966924
+</CgPoint>
+<CgPoint
+ name="122"
+ desc="BLK WALL*"
+>
+9918.052107 10056.225794 4410.929691
+</CgPoint>
+<CgPoint
+ name="123"
+ desc="BLK WALL*"
+>
+9913.602666 10056.048186 4410.975449
+</CgPoint>
+<CgPoint
+ name="124"
+ desc="BLK WALL*"
+>
+9913.587256 10055.640324 4410.959744
+</CgPoint>
+<CgPoint
+ name="125"
+ desc="OHE*GUY WIRE"
+>
+9929.232188 10057.542774 4413.173470
+</CgPoint>
+<CgPoint
+ name="126"
+ desc="O/S* 9&apos;"
+>
+9925.296492 10041.424305 4413.511798
+</CgPoint>
+<CgPoint
+ name="127"
+ desc="O/S* 8&apos;"
+>
+9917.259401 10032.823456 4413.441698
+</CgPoint>
+<CgPoint
+ name="128"
+ desc="O/S*12&apos;"
+>
+9913.363890 9978.733618 4413.894653
+</CgPoint>
+<CgPoint
+ name="129"
+ desc="O/S* 6&apos;"
+>
+9925.562686 9972.830525 4413.888804
+</CgPoint>
+<CgPoint
+ name="130"
+ desc="O/S* 7&apos;"
+>
+9970.456627 9962.449587 4414.213580
+</CgPoint>
+<CgPoint
+ name="131"
+ desc="O/S* 7&apos;"
+>
+9977.445327 9969.544536 4414.431773
+</CgPoint>
+<CgPoint
+ name="201"
+ desc="DWELLING*"
+>
+9970.445957 9969.449593
+</CgPoint>
+<CgPoint
+ name="202"
+ desc="DWELLING*"
+>
+9925.363549 9978.827231
+</CgPoint>
+<CgPoint
+ name="203"
+ desc="DWELLING*"
+>
+9925.249458 10032.424410
+</CgPoint>
+<CgPoint
+ name="204"
+ desc="DWELLING*IR GATE"
+>
+9956.349450 10032.490612
+</CgPoint>
+<CgPoint
+ name="205"
+ desc="DWELLING*"
+>
+9956.433958 9992.790622
+</CgPoint>
+<CgPoint
+ name="206"
+ desc="DWELLING*"
+>
+9970.329796 9992.449345
+</CgPoint>
+<CgPoint
+ name="207"
+ desc="DWELLING*"
+>
+9947.263543 9978.873849
+</CgPoint>
+<CgPoint
+ name="208"
+ desc="DWELLING*"
+>
+9947.145923 9969.474566
+</CgPoint>
+<CgPoint
+ name="209"
+ desc="COV PATIO*"
+>
+9917.863551 9978.811266
+</CgPoint>
+<CgPoint
+ name="210"
+ desc="COV PATIO*"
+>
+9917.749460 10032.408445
+</CgPoint>
+<CgPoint
+ name="211"
+ desc="COV ENTRY*"
+>
+9964.049448 10032.507003
+</CgPoint>
+<CgPoint
+ name="212"
+ desc="COV ENTRY*"
+>
+9964.131653 9992.601569
+</CgPoint>
+<CgPoint
+ name="213"
+ desc="CONC*DRIVE"
+>
+9964.105285 10005.401568
+</CgPoint>
+<CgPoint
+ name="214"
+ desc="CONC*DRIVE"
+>
+9964.080977 10017.201566
+</CgPoint>
+<CgPoint
+ name="215"
+ desc="BLK WALL*IR GATE"
+>
+9960.749449 10032.499978
+</CgPoint>
+<CgPoint
+ name="216"
+ desc="BLK WALL*"
+>
+9960.750513 10031.999978
+</CgPoint>
+<CgPoint
+ name="217"
+ desc="BLK WALL*"
+>
+9995.326317 10032.042598 4412.313453
+</CgPoint>
+<CgPoint
+ name="218"
+ desc="CONC*DRIVE/WALK"
+>
+9947.146844 9964.974557
+</CgPoint>
+<CgPoint
+ name="219"
+ desc="BLK WALL*IR GATE"
+>
+9942.445917 9969.479604
+</CgPoint>
+<CgPoint
+ name="220"
+ desc="BLK WALL*"
+>
+9942.452173 9969.979565
+</CgPoint>
+<CgPoint
+ name="221"
+ desc="CONC*WALK"
+>
+9942.446837 9964.979595
+</CgPoint>
+<CgPoint
+ name="222"
+ desc="CONC*WALK"
+>
+9920.563550 9978.817013
+</CgPoint>
+<CgPoint
+ name="223"
+ desc="CONC*WALK"
+>
+9920.570149 9975.717014
+</CgPoint>
+<CgPoint
+ name="224"
+ desc="CONC*WALK"
+>
+9942.444628 9975.779616
+</CgPoint>
+<CgPoint
+ name="225"
+ desc="BLK WALL*"
+>
+9906.489552 9969.219430 4415.530555
+</CgPoint>
+<CgPoint
+ name="226"
+ desc="BLK WALL*"
+>
+9906.491879 9969.719425 4415.530555
+</CgPoint>
+<CgPoint
+ name="501"
+ desc="Cogo"
+>
+9995.373145 9944.556640 4414.408111
+</CgPoint>
+<CgPoint
+ name="502"
+ desc="Cogo"
+>
+9995.842734 10056.065874 4414.408111
+</CgPoint>
+<CgPoint
+ name="503"
+ desc="Cogo"
+>
+9905.843352 10056.444881 4414.408111
+</CgPoint>
+<CgPoint
+ name="504"
+ desc="Cogo"
+>
+9905.372331 9944.595649 4414.408111
+</CgPoint>
+<CgPoint
+ name="505"
+ desc="Cogo"
+>
+9815.843970 10056.823888 4414.408111
+</CgPoint>
+<CgPoint
+ name="506"
+ desc="Cogo"
+>
+9725.844588 10057.202894 4414.408111
+</CgPoint>
+<CgPoint
+ name="507"
+ desc="Cogo"
+>
+9815.372159 9944.634317 4414.408111
+</CgPoint>
+<CgPoint
+ name="508"
+ desc="Cogo"
+>
+9725.371987 9944.672985 4414.408111
+</CgPoint>
+<CgPoint
+ name="509"
+ desc="Cogo"
+>
+9995.926958 10076.065737 4414.408111
+</CgPoint>
+<CgPoint
+ name="5000"
+ desc="BASE"
+>
+10000.020000 10000.020000 100.000200
+</CgPoint>
+</CgPoints>
+<Alignments
+ name="Points"
+>
+<Alignment
+ name="Alignment45"
+ desc="BLK WALL*"
+ staStart="0.000000"
+ length="171.348731"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="103"
+>
+9970.302537 9944.706368 4414.131357
+</Start>
+<End
+ pntRef="104"
+>
+9970.299743 9945.089859 4414.167569
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="104"
+>
+9970.299743 9945.089859 4414.167569
+</Start>
+<End
+ pntRef="102"
+>
+9994.734370 9945.178892 4415.623360
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="102"
+>
+9994.734370 9945.178892 4415.623360
+</Start>
+<End
+ pntRef="110"
+>
+9995.283086 10005.547103 4414.291397
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="110"
+>
+9995.283086 10005.547103 4414.291397
+</Start>
+<End
+ pntRef="109"
+>
+9995.695673 10005.549318 4414.301734
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="109"
+>
+9995.695673 10005.549318 4414.301734
+</Start>
+<End
+ pntRef="101"
+>
+9995.221252 9944.722746 4415.564000
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="101"
+>
+9995.221252 9944.722746 4415.564000
+</Start>
+<End
+ pntRef="103"
+>
+9970.302537 9944.706368 4414.131357
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment48"
+ desc="BLK WALL*"
+ staStart="0.000000"
+ length="390.798896"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="107"
+>
+9905.909316 9944.562500 4415.489600
+</Start>
+<End
+ pntRef="105"
+>
+9947.150980 9944.758108 4414.032962
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="105"
+>
+9947.150980 9944.758108 4414.032962
+</Start>
+<End
+ pntRef="106"
+>
+9947.136435 9945.230104 4414.045783
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="106"
+>
+9947.136435 9945.230104 4414.045783
+</Start>
+<End
+ pntRef="108"
+>
+9906.376722 9944.975228 4415.530555
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="108"
+>
+9906.376722 9944.975228 4415.530555
+</Start>
+<End
+ pntRef="225"
+>
+9906.489552 9969.219430 4415.530555
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="225"
+>
+9906.489552 9969.219430 4415.530555
+</Start>
+<End
+ pntRef="219"
+>
+9942.445917 9969.479604
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="219"
+>
+9942.445917 9969.479604
+</Start>
+<End
+ pntRef="220"
+>
+9942.452173 9969.979565
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="220"
+>
+9942.452173 9969.979565
+</Start>
+<End
+ pntRef="226"
+>
+9906.491879 9969.719425 4415.530555
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="226"
+>
+9906.491879 9969.719425 4415.530555
+</Start>
+<End
+ pntRef="118"
+>
+9906.891721 10055.634876 4410.878527
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="118"
+>
+9906.891721 10055.634876 4410.878527
+</Start>
+<End
+ pntRef="124"
+>
+9913.587256 10055.640324 4410.959744
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="124"
+>
+9913.587256 10055.640324 4410.959744
+</Start>
+<End
+ pntRef="123"
+>
+9913.602666 10056.048186 4410.975449
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="123"
+>
+9913.602666 10056.048186 4410.975449
+</Start>
+<End
+ pntRef="117"
+>
+9906.454548 10056.054007 4411.027090
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="117"
+>
+9906.454548 10056.054007 4411.027090
+</Start>
+<End
+ pntRef="107"
+>
+9905.909316 9944.562500 4415.489600
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment51"
+ desc="BLK WALL*"
+ staStart="0.000000"
+ length="301.577133"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="215"
+>
+9960.749449 10032.499978
+</Start>
+<End
+ pntRef="113"
+>
+9995.327208 10032.542598 4412.313453
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="113"
+>
+9995.327208 10032.542598 4412.313453
+</Start>
+<End
+ pntRef="116"
+>
+9995.362363 10055.257306 4412.334287
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="116"
+>
+9995.362363 10055.257306 4412.334287
+</Start>
+<End
+ pntRef="121"
+>
+9917.909858 10055.776287 4410.966924
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="121"
+>
+9917.909858 10055.776287 4410.966924
+</Start>
+<End
+ pntRef="122"
+>
+9918.052107 10056.225794 4410.929691
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="122"
+>
+9918.052107 10056.225794 4410.929691
+</Start>
+<End
+ pntRef="115"
+>
+9995.803891 10055.681371 4412.340082
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="115"
+>
+9995.803891 10055.681371 4412.340082
+</Start>
+<End
+ pntRef="114"
+>
+9995.766937 10032.065162 4412.326898
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="114"
+>
+9995.766937 10032.065162 4412.326898
+</Start>
+<End
+ pntRef="111"
+>
+9995.685865 10017.286798 4414.301144
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="111"
+>
+9995.685865 10017.286798 4414.301144
+</Start>
+<End
+ pntRef="112"
+>
+9995.300021 10017.293988 4414.270549
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="112"
+>
+9995.300021 10017.293988 4414.270549
+</Start>
+<End
+ pntRef="217"
+>
+9995.326317 10032.042598 4412.313453
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="217"
+>
+9995.326317 10032.042598 4412.313453
+</Start>
+<End
+ pntRef="216"
+>
+9960.750513 10031.999978
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="216"
+>
+9960.750513 10031.999978
+</Start>
+<End
+ pntRef="215"
+>
+9960.749449 10032.499978
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment98"
+ desc="DWELLING*"
+ staStart="0.000000"
+ length="215.897625"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="201"
+>
+9970.445957 9969.449593
+</Start>
+<End
+ pntRef="206"
+>
+9970.329796 9992.449345
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="206"
+>
+9970.329796 9992.449345
+</Start>
+<End
+ pntRef="205"
+>
+9956.433958 9992.790622
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="205"
+>
+9956.433958 9992.790622
+</Start>
+<End
+ pntRef="204"
+>
+9956.349450 10032.490612
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="204"
+>
+9956.349450 10032.490612
+</Start>
+<End
+ pntRef="203"
+>
+9925.249458 10032.424410
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="203"
+>
+9925.249458 10032.424410
+</Start>
+<End
+ pntRef="202"
+>
+9925.363549 9978.827231
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="202"
+>
+9925.363549 9978.827231
+</Start>
+<End
+ pntRef="207"
+>
+9947.263543 9978.873849
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="207"
+>
+9947.263543 9978.873849
+</Start>
+<End
+ pntRef="208"
+>
+9947.145923 9969.474566
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="208"
+>
+9947.145923 9969.474566
+</Start>
+<End
+ pntRef="201"
+>
+9970.445957 9969.449593
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment143"
+ desc="COV ENTRY*"
+ staStart="0.000000"
+ length="47.605533"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="212"
+>
+9964.131653 9992.601569
+</Start>
+<End
+ pntRef="211"
+>
+9964.049448 10032.507003
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="211"
+>
+9964.049448 10032.507003
+</Start>
+<End
+ pntRef="204"
+>
+9956.349450 10032.490612
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment146"
+ desc="COV PATIO*"
+ staStart="0.000000"
+ length="68.597330"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="203"
+>
+9925.249458 10032.424410
+</Start>
+<End
+ pntRef="210"
+>
+9917.749460 10032.408445
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="210"
+>
+9917.749460 10032.408445
+</Start>
+<End
+ pntRef="209"
+>
+9917.863551 9978.811266
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="209"
+>
+9917.863551 9978.811266
+</Start>
+<End
+ pntRef="202"
+>
+9925.363549 9978.827231
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment195"
+ desc="CONC*"
+ staStart="0.000000"
+ length="108.586310"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="201"
+>
+9970.445957 9969.449593
+</Start>
+<End
+ pntRef="103"
+>
+9970.302537 9944.706368 4414.131357
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="103"
+>
+9970.302537 9944.706368 4414.131357
+</Start>
+<End
+ pntRef="105"
+>
+9947.150980 9944.758108 4414.032962
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="105"
+>
+9947.150980 9944.758108 4414.032962
+</Start>
+<End
+ pntRef="218"
+>
+9947.146844 9964.974557
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="218"
+>
+9947.146844 9964.974557
+</Start>
+<End
+ pntRef="221"
+>
+9942.446837 9964.979595
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="221"
+>
+9942.446837 9964.979595
+</Start>
+<End
+ pntRef="224"
+>
+9942.444628 9975.779616
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="224"
+>
+9942.444628 9975.779616
+</Start>
+<End
+ pntRef="223"
+>
+9920.570149 9975.717014
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="223"
+>
+9920.570149 9975.717014
+</Start>
+<End
+ pntRef="222"
+>
+9920.563550 9978.817013
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment198"
+ desc="CONC*DRIVE"
+ staStart="0.000000"
+ length="74.933221"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="213"
+>
+9964.105285 10005.401568
+</Start>
+<End
+ pntRef="109"
+>
+9995.695673 10005.549318 4414.301734
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="109"
+>
+9995.695673 10005.549318 4414.301734
+</Start>
+<End
+ pntRef="111"
+>
+9995.685865 10017.286798 4414.301144
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="111"
+>
+9995.685865 10017.286798 4414.301144
+</Start>
+<End
+ pntRef="214"
+>
+9964.080977 10017.201566
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment232"
+ desc="OHE*"
+ staStart="0.000000"
+ length="112.288043"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="125"
+>
+9929.232188 10057.542774 4413.173470
+</Start>
+<End
+ pntRef="119"
+>
+9907.367425 10057.920849 4411.467830
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="119"
+>
+9907.367425 10057.920849 4411.467830
+</Start>
+<End
+ pntRef="120"
+>
+9816.947504 10058.048381 4409.204887
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+</Alignments>
+</LandXML>

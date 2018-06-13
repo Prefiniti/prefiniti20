@@ -1,0 +1,1 @@
+<cfmodule template="/framework/components/locationpicker.cfm" UserID="#url.calledbyuser#" CtlID="cart_loc">

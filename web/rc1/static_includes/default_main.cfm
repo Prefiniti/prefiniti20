@@ -1,0 +1,1 @@
+<embed wmode="transparent" src="Prefiniti.swf" width="500" height="300" allowscriptaccess="always"  />

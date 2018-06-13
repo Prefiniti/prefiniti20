@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=p_session.Framework.ShowDesktop();
+TYPE=SCRIPT
+DESCRIPTION=Show Desktop
+ICON=/graphics/appiconresources/crystal_project/32x32/filesystems/desktop.png

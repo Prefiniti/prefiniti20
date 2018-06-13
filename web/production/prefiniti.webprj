@@ -1,0 +1,133 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="Prefiniti" encoding="utf8" >
+    <upload/>
+    <author>John Willis</author>
+    <email>john@prefiniti.com</email>
+    <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
+    <item url="framework/" uploadstatus="1" />
+    <item url="framework/ajax.js" uploadstatus="1" />
+    <item url="framework/Application.cfm" uploadstatus="1" />
+    <item url="framework/Applications" uploadstatus="1" />
+    <item url="framework/cc_notifiers" uploadstatus="1" />
+    <item url="framework/cc_sidebars" uploadstatus="1" />
+    <item url="framework/components" uploadstatus="1" />
+    <item url="framework/controls" uploadstatus="1" />
+    <item url="framework/CoreSystem" uploadstatus="1" />
+    <item url="framework/dropdownmenu.js" uploadstatus="1" />
+    <item url="framework/framework.js" uploadstatus="1" />
+    <item url="framework/framework_udf.cfm" uploadstatus="1" />
+    <item url="framework/homeView.cfm" uploadstatus="1" />
+    <item url="framework/motionpack.js" uploadstatus="1" />
+    <item url="framework/_notes" uploadstatus="1" />
+    <item url="framework/prefiniti.js" uploadstatus="1" />
+    <item url="framework/sb_AssociationManager.cfm" uploadstatus="1" />
+    <item url="framework/sb_home.cfm" uploadstatus="1" />
+    <item url="framework/sb_ProfileManager.cfm" uploadstatus="1" />
+    <item url="framework/sb_Projects.cfm" uploadstatus="1" />
+    <item url="framework/sb_ProjectView.cfm" uploadstatus="1" />
+    <item url="framework/sb_Register.cfm" uploadstatus="1" />
+    <item url="framework/sb_Staff.cfm" uploadstatus="1" />
+    <item url="framework/sb_TimeEntry.cfm" uploadstatus="1" />
+    <item url="framework/scriptIncludes.cfm" uploadstatus="1" />
+    <item url="framework/ServerInterface" uploadstatus="1" />
+    <item url="framework/setMasthead.cfm" uploadstatus="1" />
+    <item url="framework/setSession.cfm" uploadstatus="1" />
+    <item url="framework/swfupload.swf" uploadstatus="1" />
+    <item url="framework/testUpload.cfm" uploadstatus="1" />
+    <item url="framework/UI" uploadstatus="1" />
+    <item url="framework/untitled1.html" uploadstatus="1" />
+    <item url="framework/untitled.html" uploadstatus="1" />
+    <item url="framework/_vti_cnf" uploadstatus="1" />
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="framework/CoreSystem/Debug" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools" uploadstatus="1" />
+    <item url="framework/CoreSystem/HTMLResources" uploadstatus="1" />
+    <item url="framework/CoreSystem/Security" uploadstatus="1" />
+    <item url="framework/CoreSystem/Styles" uploadstatus="1" />
+    <item url="framework/CoreSystem/SysCtls" uploadstatus="1" />
+    <item url="framework/CoreSystem/_vti_cnf" uploadstatus="1" />
+    <item url="framework/CoreSystem/Application.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/Applications.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/CommonDialogs.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/LegacyGlobals.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/LegacySupport.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/Math.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/ObjectManager.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/OnRequestEnd.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/RealTimeEvents.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/Run.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/Security.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/ServerResourceRequester.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/soundmanager2.swf" uploadstatus="1" />
+    <item url="framework/CoreSystem/SystemInitialization.js" uploadstatus="1" />
+    <item url="framework/CoreSystem/WindowManager.js" uploadstatus="1" />
+    <item url="framework/controls/dialog_html" uploadstatus="1" />
+    <item url="framework/controls/_vti_cnf" uploadstatus="1" />
+    <item url="framework/controls/commondialog.js" uploadstatus="1" />
+    <item url="framework/controls/icon.js" uploadstatus="1" />
+    <item url="framework/controls/item_basket.js" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/_vti_cnf" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PApplicationManager.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PBackgroundServiceInfo.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PBackgroundServices.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PBasketItem.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PBrowseFolder.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PBrowseFolder_Old.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PCatalogDocs.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PCopyItem.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PCreateFolderAction.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PCreateFolder.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PCreateReference.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PFolderItems.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PHelpBrowser.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PHelpSearch.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PHelpSearchResults.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PIconChooser.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PIconChooser.cfml" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PIconList.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PInstallApp.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PLegacyCreator.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PMoveItem.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PObjectInfo.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PObjectList.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PObjectListItems.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PObjectReferences.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PRemoveApp.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PTreeView.cfm" uploadstatus="1" />
+    <item url="framework/controls/dialog_html/PViewDocument.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/_vti_cnf" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/Application.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/DesktopManager.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/Notifications.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/OnRequestEnd.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/PrefinitiLauncher.cfm" uploadstatus="1" />
+    <item url="framework/CoreSystem/DesktopTools/StatsDiv.cfm" uploadstatus="1" />
+    <item url="authentication/" uploadstatus="1" />
+    <item url="authentication/components" uploadstatus="1" />
+    <item url="authentication/_notes" uploadstatus="1" />
+    <item url="authentication/profile_images" uploadstatus="1" />
+    <item url="authentication/_vti_cnf" uploadstatus="1" />
+    <item url="authentication/Application.cfm" uploadstatus="1" />
+    <item url="authentication/authentication.js" uploadstatus="1" />
+    <item url="authentication/authentication_udf.cfm" uploadstatus="1" />
+    <projectview name="prefiniti" >
+      <viewitem url="framework/CoreSystem/ServerResourceRequester.js" />
+    </projectview>
+    <annotations/>
+    <item url="socialnet/" uploadstatus="1" />
+    <item url="socialnet/components" uploadstatus="1" />
+    <item url="socialnet/contacts" uploadstatus="1" />
+    <item url="socialnet/_vti_cnf" uploadstatus="1" />
+    <item url="socialnet/Application.cfm" uploadstatus="1" />
+    <item url="socialnet/OnRequestEnd.cfm" uploadstatus="1" />
+    <item url="socialnet/socialnet.js" uploadstatus="1" />
+    <item url="socialnet/socialnet_udf.cfm" uploadstatus="1" />
+    <item url="framework/components/PWelcomeScreen.cfm" uploadstatus="1" />
+    <item url="css/" uploadstatus="1" />
+    <item url="css/gecko.css" uploadstatus="1" />
+    <item url="framework/WelcomeScreen.js" uploadstatus="1" />
+  </project>
+</webproject>

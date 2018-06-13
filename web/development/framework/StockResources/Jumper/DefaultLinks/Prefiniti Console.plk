@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=showConsole();
+TYPE=SCRIPT
+DESCRIPTION=Prefiniti Console
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/terminal.png

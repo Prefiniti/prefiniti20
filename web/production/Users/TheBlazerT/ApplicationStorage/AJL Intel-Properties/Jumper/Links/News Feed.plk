@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=PNewsFeed();
+TYPE=SCRIPT
+DESCRIPTION=News Feed
+ICON=/graphics/AppIconResources/crystal_project/32x32/apps/knewsticker.png

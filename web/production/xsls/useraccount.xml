@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+	<xsl:for-each select="result">
+	<table>
+		<tr>
+			<td>
+				<div style="width:180px; background-color:#EFEFEF; -moz-border-radius:5px; padding:5px;">
+					<img>
+					
+					
+  					<xsl:attribute name="src"><xsl:text/>
+  					<xsl:value-of select="profilepicture" />
+  					</xsl:attribute>
+					<xsl:attribute name="width">180</xsl:attribute>  
+					      
+					</img>
+				</div>
+			</td>
+			<td valign="top">					
+			 	<h1><xsl:value-of select="displayname"/></h1>
+			</td>
+		</tr>
+	</table>									
+    </xsl:for-each>
+</xsl:template>
+
+</xsl:stylesheet>

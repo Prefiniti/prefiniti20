@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=PSysCtls();
+TYPE=SCRIPT
+DESCRIPTION=Prefiniti Settings
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/kservices.png

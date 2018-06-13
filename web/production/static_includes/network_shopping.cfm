@@ -1,0 +1,4 @@
+<div style="height:200px; background-color:#EFEFEF; -moz-opacity:.90; text-align:left;">
+<strong>Network Shopping</strong><br /><br />
+Prefiniti is not only business management it is also a social network.  This network is world wide.  Many surveyors are users of third party survey ordering representatives.  These third parties take profit, large profit, off the work that you do and they negotiate.  All users that are part of Prefiniti Business or Prefiniti Social can shop and order from your company.  So if a title company in Los Angeles needs to order a survey in New York all they have to do is search for all survey companies in the New York area code and they can request proposals directly from you.  Eliminating the man in the middle is the name of the game.  Save you clients the money they would loose through the middle man and make yourself more money.  And this feature of Prefiniti is free.  It's called networking.  It's called Prefiniti.
+</div>

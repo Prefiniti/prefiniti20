@@ -1,0 +1,3 @@
+<h3 class="stdHeader">Manage employee scheduling</h3>
+
+<p>Managers can add projects and appointments to their  employees' schedules through Prefiniti's scheduling function. An employee's schedule is viewable to his or her department and manager. Confusion, miscommunication, and double-booking are  eliminated. Changes are made in real time and the employee will have access to  any changes wherever he or she might be. All that's needed is an Internet connection. That's the beauty of Prefiniti. We make it easy for you to be efficient. <br /> <img src="/graphics/dispatch.jpg" width="550" height="450" /></p>

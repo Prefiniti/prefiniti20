@@ -1,0 +1,664 @@
+<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2008-03-06" time="09:29:14" readOnly="false" language="English">
+<Project name="485-08 5054 CALLE VERDE 03-06-2008.job"/>
+<Units>
+<Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicFeet" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal degrees" directionUnit="decimal degrees"/>
+</Units>
+<Application name="Survey Pro" manufacturer="Tripod Data Systems" version="4.0" manufacturerURL="www.tdsway.com"/>
+<CgPoints
+ name="Points"
+>
+<CgPoint
+ name="1"
+ desc="1/2&quot; IRF #5939"
+>
+9989.010200 9992.046552 4381.614010
+</CgPoint>
+<CgPoint
+ name="2"
+ desc="60 D NAIL SET"
+>
+9988.516276 10052.044639 4381.614009
+</CgPoint>
+<CgPoint
+ name="3"
+ desc="CONC NAIL FND"
+>
+9884.565424 10051.110145 4381.184759
+</CgPoint>
+<CgPoint
+ name="4"
+ desc="CONC NAIL FND"
+>
+9885.009333 9991.234947 4380.604810
+</CgPoint>
+<CgPoint
+ name="6"
+ desc="1/2&quot; IRF #5939"
+>
+9988.080521 10112.047287 4383.231758
+</CgPoint>
+<CgPoint
+ name="101"
+ desc="ROCKWALL*"
+>
+9989.011004 9992.788977 4381.949843
+</CgPoint>
+<CgPoint
+ name="102"
+ desc="ROCKWALL*"
+>
+9988.978659 9991.350291 4381.916547
+</CgPoint>
+<CgPoint
+ name="103"
+ desc="TBC*"
+>
+9995.606017 9990.542599 4381.885741
+</CgPoint>
+<CgPoint
+ name="104"
+ desc="LIP*"
+>
+9997.658710 9990.432682 4381.469886
+</CgPoint>
+<CgPoint
+ name="105"
+ desc="TBOW*"
+>
+9991.595684 9990.425463 4382.037824
+</CgPoint>
+<CgPoint
+ name="106"
+ desc="ROCKWALL*"
+>
+9986.548629 10053.266182 4383.060108
+</CgPoint>
+<CgPoint
+ name="107"
+ desc="ROCKWALL*"
+>
+9986.721740 10051.799426 4382.847215
+</CgPoint>
+<CgPoint
+ name="108"
+ desc="ROCKWALL*"
+>
+9885.363252 10050.844028 4384.017000
+</CgPoint>
+<CgPoint
+ name="109"
+ desc="ROCKWALL*"
+>
+9885.245585 10052.391245 4384.963445
+</CgPoint>
+<CgPoint
+ name="110"
+ desc="ROCKWALL*"
+>
+9883.833540 10052.361676 4384.772942
+</CgPoint>
+<CgPoint
+ name="111"
+ desc="ROCKWALL*"
+>
+9883.903499 10050.951483 4384.733081
+</CgPoint>
+<CgPoint
+ name="112"
+ desc="ROCKWALL*"
+>
+9885.779667 9992.321897 4383.595071
+</CgPoint>
+<CgPoint
+ name="113"
+ desc="ROCKWALL*"
+>
+9885.752481 9990.648288 4384.716239
+</CgPoint>
+<CgPoint
+ name="114"
+ desc="ROCKWALL*"
+>
+9884.206307 9990.636575 4384.767414
+</CgPoint>
+<CgPoint
+ name="115"
+ desc="ROCKWALL*"
+>
+9884.200932 9992.036979 4384.456532
+</CgPoint>
+<CgPoint
+ name="116"
+ desc="O/S* 7&apos;"
+>
+9904.724060 10046.410547 4383.901010
+</CgPoint>
+<CgPoint
+ name="117"
+ desc="O/S* 3&apos;"
+>
+9911.790304 10049.591667 4384.353057
+</CgPoint>
+<CgPoint
+ name="118"
+ desc="O/S* 7&apos;"
+>
+9908.403635 9996.734844 4383.833495
+</CgPoint>
+<CgPoint
+ name="119"
+ desc="O/S* 3&apos;"
+>
+9915.820723 9993.541163 4383.813003
+</CgPoint>
+<CgPoint
+ name="120"
+ desc="O/S* 7&apos;"
+>
+9970.517082 10046.782491 4383.409995
+</CgPoint>
+<CgPoint
+ name="121"
+ desc="O/S* 3&apos;"
+>
+9963.123697 10049.980522 4384.419127
+</CgPoint>
+<CgPoint
+ name="122"
+ desc="O/S* 9&apos;"
+>
+9956.100194 9998.043821 4383.795747
+</CgPoint>
+<CgPoint
+ name="123"
+ desc="O/S* 3&apos;"
+>
+9947.094192 9993.772514 4383.526812
+</CgPoint>
+<CgPoint
+ name="124"
+ desc="CONC*WALK"
+>
+9961.277477 10010.949553 4383.744075
+</CgPoint>
+<CgPoint
+ name="125"
+ desc="CONC*WALK"
+>
+9969.274326 10019.049224 4383.605671
+</CgPoint>
+<CgPoint
+ name="126"
+ desc="CONC*WALK"
+>
+9969.141785 10028.181086 4383.484440
+</CgPoint>
+<CgPoint
+ name="127"
+ desc="CONC*DRIVE"
+>
+9991.290434 10028.374000 4381.973293
+</CgPoint>
+<CgPoint
+ name="128"
+ desc="CONC*WALK"
+>
+9965.220030 10028.219695 4383.690546
+</CgPoint>
+<CgPoint
+ name="129"
+ desc="CONC*WALK"
+>
+9965.212455 10020.571413 4383.666441
+</CgPoint>
+<CgPoint
+ name="130"
+ desc="CONC*WALK"
+>
+9959.693864 10014.792615 4383.906628
+</CgPoint>
+<CgPoint
+ name="131"
+ desc="O/S* 7&apos;"
+>
+9963.708906 10019.445221 4383.658433
+</CgPoint>
+<CgPoint
+ name="132"
+ desc="O/S* 7&apos;"
+>
+9970.555650 10026.725101 4383.471757
+</CgPoint>
+<CgPoint
+ name="133"
+ desc="CONC*DRIVE 5 S"
+>
+9968.547934 10045.188582 4383.643624
+</CgPoint>
+<CgPoint
+ name="134"
+ desc="CONC*DRIVE"
+>
+9991.065370 10045.387213 4382.150815
+</CgPoint>
+<CgPoint
+ name="135"
+ desc="TBC*"
+>
+9995.456574 10019.951028 4382.096183
+</CgPoint>
+<CgPoint
+ name="136"
+ desc="TBC*CURB CUT"
+>
+9995.357678 10026.949319 4381.798615
+</CgPoint>
+<CgPoint
+ name="137"
+ desc="TBC*CURB CUT"
+>
+9995.119791 10043.388060 4381.989764
+</CgPoint>
+<CgPoint
+ name="138"
+ desc="TBC*"
+>
+9995.099942 10050.122785 4382.442194
+</CgPoint>
+<CgPoint
+ name="139"
+ desc="TBC*"
+>
+9995.047027 10055.888483 4382.507885
+</CgPoint>
+<CgPoint
+ name="140"
+ desc="LIP*"
+>
+9997.185412 10055.930544 4382.056228
+</CgPoint>
+<CgPoint
+ name="501"
+ desc="Cogo"
+>
+9989.010200 9992.046552 4381.614010
+</CgPoint>
+<CgPoint
+ name="502"
+ desc="Cogo"
+>
+9988.516276 10052.044639 4381.614010
+</CgPoint>
+<CgPoint
+ name="503"
+ desc="Cogo"
+>
+9884.519592 10051.188505 4381.614010
+</CgPoint>
+<CgPoint
+ name="504"
+ desc="Cogo"
+>
+9885.013516 9991.190418 4381.614010
+</CgPoint>
+<CgPoint
+ name="505"
+ desc="Cogo"
+>
+9989.504123 9932.048465 4381.614010
+</CgPoint>
+<CgPoint
+ name="506"
+ desc="Cogo"
+>
+9988.022353 10112.042726 4381.614010
+</CgPoint>
+<CgPoint
+ name="5000"
+ desc="BASE"
+>
+10000.020000 10000.020000 100.000200
+</CgPoint>
+</CgPoints>
+<Alignments
+ name="Points"
+>
+<Alignment
+ name="Alignment26582"
+ desc="ROCKWALL*"
+ staStart="0.000000"
+ length="233.898560"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="101"
+>
+9989.011004 9992.788977 4381.949843
+</Start>
+<End
+ pntRef="102"
+>
+9988.978659 9991.350291 4381.916547
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="102"
+>
+9988.978659 9991.350291 4381.916547
+</Start>
+<End
+ pntRef="106"
+>
+9986.548629 10053.266182 4383.060108
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="106"
+>
+9986.548629 10053.266182 4383.060108
+</Start>
+<End
+ pntRef="107"
+>
+9986.721740 10051.799426 4382.847215
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="107"
+>
+9986.721740 10051.799426 4382.847215
+</Start>
+<End
+ pntRef="108"
+>
+9885.363252 10050.844028 4384.017000
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="108"
+>
+9885.363252 10050.844028 4384.017000
+</Start>
+<End
+ pntRef="109"
+>
+9885.245585 10052.391245 4384.963445
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="109"
+>
+9885.245585 10052.391245 4384.963445
+</Start>
+<End
+ pntRef="110"
+>
+9883.833540 10052.361676 4384.772942
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="110"
+>
+9883.833540 10052.361676 4384.772942
+</Start>
+<End
+ pntRef="111"
+>
+9883.903499 10050.951483 4384.733081
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="111"
+>
+9883.903499 10050.951483 4384.733081
+</Start>
+<End
+ pntRef="112"
+>
+9885.779667 9992.321897 4383.595071
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="112"
+>
+9885.779667 9992.321897 4383.595071
+</Start>
+<End
+ pntRef="113"
+>
+9885.752481 9990.648288 4384.716239
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="113"
+>
+9885.752481 9990.648288 4384.716239
+</Start>
+<End
+ pntRef="114"
+>
+9884.206307 9990.636575 4384.767414
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="114"
+>
+9884.206307 9990.636575 4384.767414
+</Start>
+<End
+ pntRef="115"
+>
+9884.200932 9992.036979 4384.456532
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment26583"
+ desc="CONC*"
+ staStart="0.000000"
+ length="42.664503"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="124"
+>
+9961.277477 10010.949553 4383.744075
+</Start>
+<End
+ pntRef="125"
+>
+9969.274326 10019.049224 4383.605671
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="125"
+>
+9969.274326 10019.049224 4383.605671
+</Start>
+<End
+ pntRef="126"
+>
+9969.141785 10028.181086 4383.484440
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="126"
+>
+9969.141785 10028.181086 4383.484440
+</Start>
+<End
+ pntRef="127"
+>
+9991.290434 10028.374000 4381.973293
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment26590"
+ desc="CONC*"
+ staStart="0.000000"
+ length="15.638865"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="128"
+>
+9965.220030 10028.219695 4383.690546
+</Start>
+<End
+ pntRef="129"
+>
+9965.212455 10020.571413 4383.666441
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="129"
+>
+9965.212455 10020.571413 4383.666441
+</Start>
+<End
+ pntRef="130"
+>
+9959.693864 10014.792615 4383.906628
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment26592"
+ desc="CONC*"
+ staStart="0.000000"
+ length="22.518312"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="133"
+>
+9968.547934 10045.188582 4383.643624
+</Start>
+<End
+ pntRef="134"
+>
+9991.065370 10045.387213 4382.150815
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment26584"
+ desc="TBC*"
+ staStart="0.000000"
+ length="65.348956"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="103"
+>
+9995.606017 9990.542599 4381.885741
+</Start>
+<End
+ pntRef="135"
+>
+9995.456574 10019.951028 4382.096183
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="135"
+>
+9995.456574 10019.951028 4382.096183
+</Start>
+<End
+ pntRef="136"
+>
+9995.357678 10026.949319 4381.798615
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="136"
+>
+9995.357678 10026.949319 4381.798615
+</Start>
+<End
+ pntRef="137"
+>
+9995.119791 10043.388060 4381.989764
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="137"
+>
+9995.119791 10043.388060 4381.989764
+</Start>
+<End
+ pntRef="138"
+>
+9995.099942 10050.122785 4382.442194
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="138"
+>
+9995.099942 10050.122785 4382.442194
+</Start>
+<End
+ pntRef="139"
+>
+9995.047027 10055.888483 4382.507885
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+</Alignments>
+</LandXML>

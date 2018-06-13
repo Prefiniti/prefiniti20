@@ -1,0 +1,11 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item column="1" line="1630" url="framework/prefiniti.js" />
+      <item column="8" line="1368" url="css/gecko.css" />
+      <item column="0" line="0" url="framework/WelcomeScreen.js" />
+      <item line="170" column="1" url="framework/CoreSystem/ServerResourceRequester.js" />
+    </itemcursorpositions>
+  </session>
+</webprojectsession>

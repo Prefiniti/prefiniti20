@@ -1,0 +1,818 @@
+<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2008-05-29" time="11:53:28" readOnly="false" language="English">
+<Project name="529-08 SCTC.job"/>
+<Units>
+<Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicFeet" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal degrees" directionUnit="decimal degrees"/>
+</Units>
+<Application name="Survey Pro" manufacturer="Tripod Data Systems" version="4.0" manufacturerURL="www.tdsway.com"/>
+<CgPoints
+ name="Points"
+>
+<CgPoint
+ name="1"
+ desc="3/8&quot; REBAR"
+>
+9935.945171 10069.065593 4571.748945
+</CgPoint>
+<CgPoint
+ name="2"
+ desc="1/2&quot; REB 1755"
+>
+10037.536898 9992.231197 4573.010300
+</CgPoint>
+<CgPoint
+ name="3"
+ desc="60D NAIL"
+>
+10081.011613 10059.082992 4571.483832
+</CgPoint>
+<CgPoint
+ name="4"
+ desc="1/2&quot; REB"
+>
+9994.747061 9924.730726 4577.904441
+</CgPoint>
+<CgPoint
+ name="5"
+ desc="1/2&quot; REB"
+>
+9895.399920 9796.098146 4588.302050
+</CgPoint>
+<CgPoint
+ name="6"
+ desc="5/8&quot; REB 13984"
+>
+9908.928323 9884.724931 4590.554726
+</CgPoint>
+<CgPoint
+ name="7"
+ desc="1/2&quot; REB"
+>
+9930.643489 9870.519482 4590.958908
+</CgPoint>
+<CgPoint
+ name="8"
+ desc="NAIL W/WSHR13984"
+>
+9909.704194 10048.861385 4572.400997
+</CgPoint>
+<CgPoint
+ name="9"
+ desc="1/2&quot; REB 12129"
+>
+9799.585810 9880.782275 4598.010688
+</CgPoint>
+<CgPoint
+ name="10"
+ desc="60D NAIL"
+>
+9919.341013 9809.761313 4585.109813
+</CgPoint>
+<CgPoint
+ name="11"
+ desc="5/8&quot; REB 13984"
+>
+9960.480063 9783.326408 4584.371130
+</CgPoint>
+<CgPoint
+ name="12"
+ desc="5/8&quot; REB 8473"
+>
+9953.655808 9747.163826 4585.341978
+</CgPoint>
+<CgPoint
+ name="13"
+ desc="5/8&quot; REB 8473"
+>
+9935.543126 9734.191587 4585.548791
+</CgPoint>
+<CgPoint
+ name="14"
+ desc="1/2&quot; REB 1755"
+>
+9903.845218 9734.848549 4586.503814
+</CgPoint>
+<CgPoint
+ name="15"
+ desc="Cogo"
+>
+9950.550580 9857.942393 4573.010300
+</CgPoint>
+<CgPoint
+ name="16"
+ desc="PT15 5/8&quot;SET"
+>
+9950.540098 9857.905378 4583.812375
+</CgPoint>
+<CgPoint
+ name="100"
+ desc="LINK FNC*"
+>
+9934.836123 10080.216280 4570.432623
+</CgPoint>
+<CgPoint
+ name="101"
+ desc="LINK FNC*"
+>
+9936.423057 10068.318350 4572.267289
+</CgPoint>
+<CgPoint
+ name="102"
+ desc="LINK FNC*"
+>
+9953.486577 10053.648314 4576.659840
+</CgPoint>
+<CgPoint
+ name="103"
+ desc="OHE POL"
+>
+9896.631535 10052.005080 4571.821809
+</CgPoint>
+<CgPoint
+ name="104"
+ desc="OHE UP"
+>
+9938.593077 10068.046876 4572.029162
+</CgPoint>
+<CgPoint
+ name="105"
+ desc="LINK FNC*"
+>
+10018.622085 10005.250459 4582.142201
+</CgPoint>
+<CgPoint
+ name="106"
+ desc="OHE UP"
+>
+10004.965737 10016.033847 4583.175920
+</CgPoint>
+<CgPoint
+ name="107"
+ desc="LINK FNC*"
+>
+10036.974239 9993.088926 4573.465962
+</CgPoint>
+<CgPoint
+ name="108"
+ desc="LINK FNC*"
+>
+10044.166848 10004.361472 4573.207003
+</CgPoint>
+<CgPoint
+ name="109"
+ desc="RETWALL*"
+>
+9971.480785 9897.364188 4584.575957
+</CgPoint>
+<CgPoint
+ name="110"
+ desc="RETWALL*"
+>
+9958.085239 9867.985420 4584.880308
+</CgPoint>
+<CgPoint
+ name="111"
+ desc="4.65 GAR/WRK"
+>
+9947.039163 9869.530056 4587.375296
+</CgPoint>
+<CgPoint
+ name="112"
+ desc="5.40 GAR/WRK"
+>
+9942.074191 9870.506379 4588.798507
+</CgPoint>
+<CgPoint
+ name="113"
+ desc="4.90 GAR/WRK"
+>
+9918.439722 9881.180848 4590.596240
+</CgPoint>
+<CgPoint
+ name="114"
+ desc="5.11 GAR/WRK"
+>
+9915.795584 9887.488217 4590.461497
+</CgPoint>
+<CgPoint
+ name="115"
+ desc="3&quot; BOLLARD"
+>
+9917.243657 9887.786568 4590.719853
+</CgPoint>
+<CgPoint
+ name="116"
+ desc="3.5&apos; HOUSE"
+>
+9933.451247 9943.947805 4584.586329
+</CgPoint>
+<CgPoint
+ name="117"
+ desc="3.5&apos; HOUSE"
+>
+9965.654155 9933.424517 4584.555134
+</CgPoint>
+<CgPoint
+ name="118"
+ desc="OHE POL"
+>
+9983.974556 9976.733296 4583.836779
+</CgPoint>
+<CgPoint
+ name="200"
+ desc="CLF*"
+>
+9934.875675 10080.367736 4568.831195
+</CgPoint>
+<CgPoint
+ name="201"
+ desc="CLF*"
+>
+9936.539009 10068.323047 4570.713820
+</CgPoint>
+<CgPoint
+ name="202"
+ desc="CLF*END"
+>
+9954.019885 10053.148440 4575.457937
+</CgPoint>
+<CgPoint
+ name="203"
+ desc="WOOD FNC*"
+>
+9953.004828 10053.410054 4576.682079
+</CgPoint>
+<CgPoint
+ name="204"
+ desc="WOOD FNC*"
+>
+9972.246433 10039.457299 4580.794115
+</CgPoint>
+<CgPoint
+ name="205"
+ desc="WIRE FNC*"
+>
+9972.408107 10039.872346 4581.281121
+</CgPoint>
+<CgPoint
+ name="206"
+ desc="WIRE FNC*"
+>
+9981.155534 10033.392513 4581.528397
+</CgPoint>
+<CgPoint
+ name="207"
+ desc="WIRE FNC*"
+>
+9990.805918 10025.954876 4582.379984
+</CgPoint>
+<CgPoint
+ name="208"
+ desc="WOOD FNC*"
+>
+9990.589673 10025.642945 4582.315289
+</CgPoint>
+<CgPoint
+ name="209"
+ desc="WOOD FNC*"
+>
+10018.913642 10004.172538 4582.389292
+</CgPoint>
+<CgPoint
+ name="210"
+ desc="CLF*START"
+>
+10018.574816 10005.168689 4580.733629
+</CgPoint>
+<CgPoint
+ name="211"
+ desc="CLF*"
+>
+10024.973314 10000.516823 4580.605769
+</CgPoint>
+<CgPoint
+ name="212"
+ desc="CLF*"
+>
+10036.723121 9993.090446 4571.782015
+</CgPoint>
+<CgPoint
+ name="213"
+ desc="CLF*"
+>
+10038.980288 9996.515288 4571.522490
+</CgPoint>
+<CgPoint
+ name="500"
+ desc="Cogo"
+>
+9909.658591 10048.812750 4571.748945
+</CgPoint>
+<CgPoint
+ name="501"
+ desc="Cogo"
+>
+9908.969044 9884.663870 4571.748945
+</CgPoint>
+<CgPoint
+ name="502"
+ desc="Cogo"
+>
+9951.032030 9857.632126 4571.748945
+</CgPoint>
+<CgPoint
+ name="503"
+ desc="Cogo"
+>
+9994.282820 9924.932904 4571.748945
+</CgPoint>
+<CgPoint
+ name="504"
+ desc="Cogo"
+>
+10037.533610 9992.233682 4571.748945
+</CgPoint>
+<CgPoint
+ name="505"
+ desc="Cogo"
+>
+9995.470624 10019.265426 4571.748945
+</CgPoint>
+<CgPoint
+ name="506"
+ desc="Cogo"
+>
+9935.945171 10069.065593 4571.748945
+</CgPoint>
+<CgPoint
+ name="507"
+ desc="Cogo"
+>
+9952.219834 9951.964648 4571.748945
+</CgPoint>
+<CgPoint
+ name="508"
+ desc="Cogo"
+>
+9801.994976 9882.805170 4571.748945
+</CgPoint>
+<CgPoint
+ name="5000"
+ desc="GPS BASE"
+>
+10000.020000 10000.020000 4583.360863
+</CgPoint>
+</CgPoints>
+<Alignments
+ name="Points"
+>
+<Alignment
+ name="Alignment145"
+ desc="COGO"
+ staStart="0.000000"
+ length="534.944764"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="500"
+>
+9909.658591 10048.812750 4571.748945
+</Start>
+<End
+ pntRef="501"
+>
+9908.969044 9884.663870 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="501"
+>
+9908.969044 9884.663870 4571.748945
+</Start>
+<End
+ pntRef="502"
+>
+9951.032030 9857.632126 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="502"
+>
+9951.032030 9857.632126 4571.748945
+</Start>
+<End
+ pntRef="503"
+>
+9994.282820 9924.932904 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="503"
+>
+9994.282820 9924.932904 4571.748945
+</Start>
+<End
+ pntRef="504"
+>
+10037.533610 9992.233682 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="504"
+>
+10037.533610 9992.233682 4571.748945
+</Start>
+<End
+ pntRef="505"
+>
+9995.470624 10019.265426 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="505"
+>
+9995.470624 10019.265426 4571.748945
+</Start>
+<End
+ pntRef="506"
+>
+9935.945171 10069.065593 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="506"
+>
+9935.945171 10069.065593 4571.748945
+</Start>
+<End
+ pntRef="500"
+>
+9909.658591 10048.812750 4571.748945
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment219"
+ desc="RETWALL*"
+ staStart="0.000000"
+ length="32.288584"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="109"
+>
+9971.480785 9897.364188 4584.575957
+</Start>
+<End
+ pntRef="110"
+>
+9958.085239 9867.985420 4584.880308
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment221"
+ desc="OHE*"
+ staStart="0.000000"
+ length="173.803429"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="103"
+>
+9896.631535 10052.005080 4571.821809
+</Start>
+<End
+ pntRef="104"
+>
+9938.593077 10068.046876 4572.029162
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="104"
+>
+9938.593077 10068.046876 4572.029162
+</Start>
+<End
+ pntRef="106"
+>
+10004.965737 10016.033847 4583.175920
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="106"
+>
+10004.965737 10016.033847 4583.175920
+</Start>
+<End
+ pntRef="118"
+>
+9983.974556 9976.733296 4583.836779
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment217"
+ desc="LINK FNC*"
+ staStart="0.000000"
+ length="34.506043"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="100"
+>
+9934.836123 10080.216280 4570.432623
+</Start>
+<End
+ pntRef="101"
+>
+9936.423057 10068.318350 4572.267289
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="101"
+>
+9936.423057 10068.318350 4572.267289
+</Start>
+<End
+ pntRef="102"
+>
+9953.486577 10053.648314 4576.659840
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment224"
+ desc="LINK FNC*"
+ staStart="0.000000"
+ length="35.387762"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="105"
+>
+10018.622085 10005.250459 4582.142201
+</Start>
+<End
+ pntRef="107"
+>
+10036.974239 9993.088926 4573.465962
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="107"
+>
+10036.974239 9993.088926 4573.465962
+</Start>
+<End
+ pntRef="108"
+>
+10044.166848 10004.361472 4573.207003
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment312"
+ desc="PROP"
+ staStart="0.000000"
+ length="127.614365"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="1"
+>
+9935.945171 10069.065593 4571.748945
+</Start>
+<End
+ pntRef="505"
+>
+9995.470624 10019.265426 4571.748945
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="505"
+>
+9995.470624 10019.265426 4571.748945
+</Start>
+<End
+ pntRef="2"
+>
+10037.536898 9992.231197 4573.010300
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment320"
+ desc="CLF*"
+ staStart="0.000000"
+ length="35.307425"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="200"
+>
+9934.875675 10080.367736 4568.831195
+</Start>
+<End
+ pntRef="201"
+>
+9936.539009 10068.323047 4570.713820
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="201"
+>
+9936.539009 10068.323047 4570.713820
+</Start>
+<End
+ pntRef="202"
+>
+9954.019885 10053.148440 4575.457937
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment321"
+ desc="WOOD FNC*"
+ staStart="0.000000"
+ length="23.768019"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="203"
+>
+9953.004828 10053.410054 4576.682079
+</Start>
+<End
+ pntRef="204"
+>
+9972.246433 10039.457299 4580.794115
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment324"
+ desc="WIRE FNC*"
+ staStart="0.000000"
+ length="23.069972"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="205"
+>
+9972.408107 10039.872346 4581.281121
+</Start>
+<End
+ pntRef="206"
+>
+9981.155534 10033.392513 4581.528397
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="206"
+>
+9981.155534 10033.392513 4581.528397
+</Start>
+<End
+ pntRef="207"
+>
+9990.805918 10025.954876 4582.379984
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment326"
+ desc="WOOD FNC*"
+ staStart="0.000000"
+ length="35.541885"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="208"
+>
+9990.589673 10025.642945 4582.315289
+</Start>
+<End
+ pntRef="209"
+>
+10018.913642 10004.172538 4582.389292
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+<Alignment
+ name="Alignment323"
+ desc="CLF*"
+ staStart="0.000000"
+ length="25.912507"
+>
+<CoordGeom
+>
+<Line
+>
+<Start
+ pntRef="210"
+>
+10018.574816 10005.168689 4580.733629
+</Start>
+<End
+ pntRef="211"
+>
+10024.973314 10000.516823 4580.605769
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="211"
+>
+10024.973314 10000.516823 4580.605769
+</Start>
+<End
+ pntRef="212"
+>
+10036.723121 9993.090446 4571.782015
+</End>
+</Line>
+<Line
+>
+<Start
+ pntRef="212"
+>
+10036.723121 9993.090446 4571.782015
+</Start>
+<End
+ pntRef="213"
+>
+10038.980288 9996.515288 4571.522490
+</End>
+</Line>
+</CoordGeom>
+</Alignment>
+</Alignments>
+</LandXML>

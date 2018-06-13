@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=PHelpBrowser(0);
+TYPE=SCRIPT
+DESCRIPTION=Help and Support
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/khelpcenter.png

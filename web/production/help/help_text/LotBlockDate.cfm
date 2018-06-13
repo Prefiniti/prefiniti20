@@ -1,0 +1,6 @@
+<p>Most subdivisions divide land into designations called Blocks and Lots (typically contained inside of Blocks).  Some subdivisions are divided into Lots only.  Some subdivisions are divided into Tracts, while other subdivisions may contain Blocks, Lots and Tracts.  This information is usually located after the Grantor and Grantee information on your deed. Here you will find all the information on your subdivision, including the name, lot and block and the date the subdivision was filed at the county recorder's office.</p>
+
+<p><em>Note:</em><br>
+Some deeds describe this information on a separate page of your deed.  If the information is described on a separate page, then the first page of your deed will say that in a phrase like, "See exhibit B attached hereto for detailed property description."  Other dates on your deed such as the deed's filing date and the notary date do not apply to the subdivision filing date.</p>
+
+<p>If these help suggestions do not answer your questions, please feel free to call us at (505) 522-3763.</p>

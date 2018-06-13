@@ -1,0 +1,5 @@
+[LINKDATA]
+ADDRESS=Chat_EntryPoint();
+TYPE=SCRIPT
+DESCRIPTION=Prefiniti Chat
+ICON=/graphics/appiconresources/crystal_project/32x32/apps/chat.png

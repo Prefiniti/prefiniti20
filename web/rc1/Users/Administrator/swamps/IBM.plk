@@ -1,0 +1,5 @@
+[LINKDATA]
+TYPE=WEB
+ADDRESS=http://www.ibm.com
+ICON=/graphics/AppIconResources/crystal_project/32x32/actions/web.png
+VIEWPERMISSIONS=WW_MANAGECATALOG

@@ -1,0 +1,2 @@
+<cfmodule template="/Framework/Components/social_sitestats.cfm" QueriedSite="#URL.QueriedSite#" QueriedAssociation="#URL.QueriedAssociation#" QueriedUser="#URL.QueriedUser#">
+<cfmodule template="/Framework/Components/sitestats_16.cfm" QueriedSite="#URL.QueriedSite#" QueriedAssociation="#URL.QueriedAssociation#" QueriedUser="#URL.QueriedUser#">

@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.0"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.0 http://www.landxml.org/schema/LandXML-1.0/LandXML-1.0.xsd" version="1.0" date="2008-06-17" time="11:58:07" readOnly="false" language="English">
+<Project name="535-08 SCTC.job"/>
+<Units>
+<Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicFeet" temperatureUnit="fahrenheit" pressureUnit="inchHG" angularUnit="decimal degrees" directionUnit="decimal degrees"/>
+</Units>
+<Application name="Survey Pro" manufacturer="Tripod Data Systems" version="4.0" manufacturerURL="www.tdsway.com"/>
+<CgPoints
+ name="Points"
+>
+<CgPoint
+ name="4"
+ desc="5/8&quot; REB 8473"
+>
+10015.737784 10018.636896 4283.050063
+</CgPoint>
+<CgPoint
+ name="20"
+ desc="1/2&quot; REB 1755"
+>
+10016.103503 10102.084247 4277.945903
+</CgPoint>
+<CgPoint
+ name="21"
+ desc="1/2&quot; REB"
+>
+10164.667718 10016.631699 4293.531028
+</CgPoint>
+<CgPoint
+ name="23"
+ desc="1/2&quot; REB 1755"
+>
+10314.744701 10014.723893 4306.799014
+</CgPoint>
+<CgPoint
+ name="100"
+ desc="DRIVE"
+>
+10015.964902 10041.395836 4280.404773
+</CgPoint>
+<CgPoint
+ name="101"
+ desc="DRIVE/FNC"
+>
+10015.967925 10051.442932 4280.171968
+</CgPoint>
+<CgPoint
+ name="102"
+ desc="FNC/GT"
+>
+10016.119724 10065.897502 4279.797971
+</CgPoint>
+<CgPoint
+ name="103"
+ desc="FNC/GT"
+>
+10016.124414 10069.004287 4279.588949
+</CgPoint>
+<CgPoint
+ name="104"
+ desc="FNC"
+>
+10016.129451 10102.098082 4278.010953
+</CgPoint>
+<CgPoint
+ name="105"
+ desc="FNC"
+>
+10045.535946 10101.752565 4280.495753
+</CgPoint>
+<CgPoint
+ name="106"
+ desc="6.34 HOUSE"
+>
+10073.008889 10101.868828 4280.877336
+</CgPoint>
+<CgPoint
+ name="107"
+ desc="6.37 WRKSHP"
+>
+10111.024959 10101.446932 4281.326065
+</CgPoint>
+<CgPoint
+ name="108"
+ desc="1/2&quot; REB 1755"
+>
+10165.817945 10100.262638 4284.106318
+</CgPoint>
+<CgPoint
+ name="109"
+ desc="FNC"
+>
+10123.070686 10100.715781 4282.073391
+</CgPoint>
+<CgPoint
+ name="110"
+ desc="FNC"
+>
+10123.467406 10072.419137 4282.239806
+</CgPoint>
+<CgPoint
+ name="111"
+ desc="FNC/GT"
+>
+10123.925512 10058.933432 4282.714016
+</CgPoint>
+<CgPoint
+ name="112"
+ desc="FNC/GT"
+>
+10124.129175 10043.006777 4282.997926
+</CgPoint>
+<CgPoint
+ name="113"
+ desc="FNC"
+>
+10123.837711 10039.991178 4282.610881
+</CgPoint>
+<CgPoint
+ name="114"
+ desc="4.71 WRKSHP"
+>
+10110.786563 10070.293358 4281.986677
+</CgPoint>
+<CgPoint
+ name="115"
+ desc="5.11 WRKSHP"
+>
+10105.566877 10075.247447 4281.352081
+</CgPoint>
+<CgPoint
+ name="116"
+ desc="5.54 WRKSHP"
+>
+10105.420608 10094.835560 4281.256679
+</CgPoint>
+<CgPoint
+ name="117"
+ desc="CONC"
+>
+10080.073008 10095.425106 4281.324754
+</CgPoint>
+<CgPoint
+ name="118"
+ desc="12.98 HOUSE"
+>
+10086.466092 10040.672152 4281.148495
+</CgPoint>
+<CgPoint
+ name="119"
+ desc="6.47 HOUSE"
+>
+10073.273888 10034.002807 4281.594745
+</CgPoint>
+<CgPoint
+ name="120"
+ desc="OHE DROP"
+>
+10079.194384 10039.703553 4281.582862
+</CgPoint>
+<CgPoint
+ name="121"
+ desc="OHE UP"
+>
+10310.752856 10013.987309 4306.793581
+</CgPoint>
+<CgPoint
+ name="122"
+ desc="OHE UP"
+>
+10138.394563 10017.202505 4292.574311
+</CgPoint>
+<CgPoint
+ name="501"
+ desc="Cogo"
+>
+5000.010000 5000.010000 100.000200
+</CgPoint>
+<CgPoint
+ name="502"
+ desc="Cogo"
+>
+5150.010294 4999.966367 100.000200
+</CgPoint>
+<CgPoint
+ name="503"
+ desc="Cogo"
+>
+5149.969569 4859.966093 100.000200
+</CgPoint>
+<CgPoint
+ name="504"
+ desc="Cogo"
+>
+4999.969276 4860.009726 100.000200
+</CgPoint>
+<CgPoint
+ name="505"
+ desc="Cogo"
+>
+5300.010587 4999.922733 100.000200
+</CgPoint>
+<CgPoint
+ name="506"
+ desc="Cogo"
+>
+5299.969863 4859.922459 100.000200
+</CgPoint>
+<CgPoint
+ name="5000"
+ desc="GPS BASE"
+>
+10000.020000 10000.020000 100.000200
+</CgPoint>
+</CgPoints>
+</LandXML>

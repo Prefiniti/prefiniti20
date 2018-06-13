@@ -1,0 +1,89 @@
+<h3>Overview:</h3>
+<p>Creates a new window object that can be loaded via the <strong><em>SessionObject</em>.Framework.CreateWindow()</strong> function</p>
+<h3>Syntax:</h3>
+<code>
+	<em>windowObject</em> = <strong>new</strong> PWindow(<em>Handle, Title, Rect, Icon, Style, MessageHandler, Color</em>);
+</code>
+<h3>Parameters:</h3>
+<blockquote>
+
+<h4>Handle</h4>
+<p><strong>Type:</strong> String</p>
+<p>The string handle by which the new window will be identified.</p>
+
+<h4>Title</h4>
+<p><strong>Type:</strong> String</p>
+<p>This string will be placed in the new window's title bar.</p>
+
+<h4>Rect</h4>
+<p><strong>Type:</strong> PRect() or PAutoRect()</p>
+<p>The dimensions of the window will be determined by the dimensions of this PRect() rectangle. If a PAutoRect() is used instead, the system will determine the placement of the window automatically.</p>
+
+<h4>Icon</h4>
+<p><strong>Type:</strong> PIcon()</p>
+<p>The icon displayed in the window's application box (if applicable) and in its Desktop Manager button.</p>
+
+<h4>Style</h4>
+<p><strong>Type:</strong> Numeric</p>
+<p>Bitmask determining the desired style of the window to be created. The value of this parameter may be built by combining the desired WS_<em>xxxxx</em> constants together with bitwise OR.<p>
+<p>The following style constants are available:</p>
+	<table>
+    	<tr>
+        	<td><strong>Style Constant</strong></td>
+            <td><strong>Effect (when bit turned on)</strong></td>
+		</tr>
+        <tr>            
+    		<td>WS_ALLOWCLOSE</td>
+            <td>Window can be closed</td>
+        </tr>
+        <tr>
+        	<td>WS_ALLOWMINIMIZE</td>
+            <td>Window can be minimized</td>
+		</tr>
+        <tr>
+        	<td>WS_ALLOWMAXIMIZE</td>
+            <td>Window can be maximized</td>
+		</tr>
+        <tr>
+        	<td>WS_ALLOWRESIZE</td>
+            <td>Window can be resized</td>
+		</tr>
+        <tr>
+        	<td>WS_SHOWAPPMENU</td>
+            <td>Shows application menu in window title bar</td>
+		</tr>            
+       	<tr>
+        	<td>WS_ENABLEPDM</td>
+            <td>Allows the window to be managed by the PDM dock</td>
+		</tr>
+        <tr>
+        	<td>WS_ROOT</td>
+            <td>Window is a root window. Only the Prefiniti Window Manager can use this style.</td>		
+        </tr>
+        <tr>
+        	<td>WS_MODAL</td>
+            <td>Window cannot lose focus until closed</td>
+		</tr>
+        <tr>
+        	<td>WS_DEFAULT</td>
+            <td>Shorthand for WS_ALLOWCLOSE | WS_ALLOWMINIMIZE | WS_ALLOWMAXIMIZE | WS_ALLOWRESIZE | WS_SHOWAPPMENU | WS_ENABLEPDM</td>
+		</tr>
+        <tr>
+        	<td>WS_DIALOG</td>
+            <td>Shorthand for WS_ALLOWCLOSE | WS_ALLOWMINIMIZE | WS_ENABLEPDM | WS_SHOWAPPMENU</td>
+		</tr>
+        <tr>
+        	<td>WS_TOOLWINDOW</td>
+            <td>Shorthand for WS_SHOWAPPMENU</td>
+		</tr>
+	</table>    
+<h4>MessageHandler</h4>
+<p><strong>Type:</strong> Callback Function</p>
+<p>A reference to the developer-supplied function responsible for handling system messages sent to the window. If <em>MessageHandler</em> is <strong>null</strong>, the framework will perform only default processing of messages on the window's behalf.</p>
+<p>See the Framework Programmer's Guide document titled "Window Message Handling" for more information about custom message handlers.</p>
+
+<h4>Color</h4>
+<p><strong>Type:</strong> PColor()</p>
+<p>Sets the color of the window.</p>
+
+</blockquote>    
